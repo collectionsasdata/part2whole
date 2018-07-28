@@ -3,8 +3,8 @@ layout: archive
 title:  "Collections as Data: Part to Whole"
 ---
 ---
-![network](images/network.png) ![network](images/network.png) ![network](images/network.png) ![network](images/network.png)
 
+![network](images/network.png) ![network](images/network.png) ![network](images/network.png) ![network](images/network.png)
 
 **Collections as Data: Part to Whole** is an Andrew W. Mellon Foundation supported effort that aims to foster the development of broadly viable models that support collections as data implementation and use ([see grant narrative](https://github.com/collectionsasdata/collectionsasdata.github.io/blob/master/part2whole/cad_part2whole_narrative.pdf)). 
 
