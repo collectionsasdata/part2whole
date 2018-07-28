@@ -4,13 +4,13 @@ title:  "Resources"
 ---
 ---
 
-## Collections as Data: Part to Whole
+### Collections as Data: Part to Whole
 
 [Cohort 1 Call for Proposals]()
 
 [Grant Narrative](https://github.com/collectionsasdata/collectionsasdata.github.io/blob/master/part2whole/cad_part2whole_narrative.pdf)
 
-## Always Already Computational: Collections as Data
+### Always Already Computational: Collections as Data
 
 [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/)
 
@@ -24,7 +24,7 @@ title:  "Resources"
 
 [Serendipitous Collections as Data](https://collectionsasdata.github.io/ideas/)
 
-## Collections as Data
+### Collections as Data
 
 [Collections as Data Google Group](https://groups.google.com/forum/#!forum/collectionsasdata)
 
