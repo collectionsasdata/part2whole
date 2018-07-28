@@ -8,7 +8,7 @@ title:  "Resources"
 
 [Cohort 1 Call for Proposals]()
 
-[Grant Narrative](https://github.com/collectionsasdata/collectionsasdata.github.io/blob/master/part2whole/cad_part2whole_narrative.pdf)
+[Grant Narrative](https://github.com/collectionsasdata/part2whole/raw/master/cad_part2whole_narrative.pdf)
 
 #### Always Already Computational: Collections as Data
 
