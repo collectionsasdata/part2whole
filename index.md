@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "Collections as Data: Part to Whole"
+title:  "Part to Whole"
 ---
 ---
 
