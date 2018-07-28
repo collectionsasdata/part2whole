@@ -9,11 +9,9 @@ title:  "Part to Whole"
 
 **Collections as Data: Part to Whole** aims to foster development of broadly viable models that support collections as data implementation and use. This effort is generously supported by The Andrew W. Mellon Foundation ([**see grant narrative**](https://github.com/collectionsasdata/part2whole/raw/master/cad_part2whole_narrative.pdf)). 
 
-Over a period of three years Collections as Data: Part to Whole will fund 12 teams across two cohorts. Cohorts will be comprised of project teams jointly led by librarians and disciplinary scholars. Models developed by project teams will support collections as data implementation and holistic reconceptualization of services and roles that support scholarly use. Collections as data produced by project activity will exhibit high research value, demonstrate the capacity to serve underrepresented communities, represent a diversity of content types, languages, and descriptive practices, and arise from a range of institutional contexts. An inclusive approach is taken to model development in order to expand the
-field of scholarly possibility.
+Over a period of three years Collections as Data: Part to Whole will fund 12 teams across two cohorts. Cohorts will be comprised of project teams jointly led by librarians and disciplinary scholars. Models developed by project teams will support collections as data implementation and holistic reconceptualization of services and roles that support scholarly use. Collections as data produced by project activity will exhibit high research value, demonstrate the capacity to serve underrepresented communities, represent a diversity of content types, languages, and descriptive practices, and arise from a range of institutional contexts. 
 
 Cohort 1 Call for Proposals can be found [**here**]().
- 
 
 # Contact  
 
