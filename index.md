@@ -7,11 +7,11 @@ title:  "Part to Whole"
 ![network](images/network.png) ![network](images/network.png) ![network](images/network.png) ![network](images/network.png)
 
 
-**Collections as Data: Part to Whole** aims to foster development of broadly viable models that support collections as data implementation and use. This work is generously supported by The Andrew W. Mellon Foundation ([see grant narrative](https://github.com/collectionsasdata/collectionsasdata.github.io/blob/master/part2whole/cad_part2whole_narrative.pdf)). 
+**Collections as Data: Part to Whole** aims to foster development of broadly viable models that support collections as data implementation and use. This effort is generously supported by The Andrew W. Mellon Foundation ([see grant narrative](https://github.com/collectionsasdata/collectionsasdata.github.io/blob/master/part2whole/cad_part2whole_narrative.pdf)). 
 
 A growing number of cultural heritage organizations have invested in the creation of collections that are amenable to computational use. Increasingly, the concept of [**collections as data**](https://collectionsasdata.github.io/statement/) is used to align efforts of this kind. In 2016, the Institute of Museum and Library Services supported [**Always Already Computational: Collections as Data**](https://collectionsasdata.github.io/), began a broad collections as data advocacy effort. Always Already Computational demonstrated that cultural hertiage professionals readily saw the value of this work and were eager to expand the potential use of their collections. As interest in collections as data grows, questions arise as to how the work can be organizationally integrated and sustained. 
 
-Over a period of three years *Collections as Data: Part to Whole* will fund 12 teams, across two cohorts, to address these challenges together. 
+Over a period of three years *Collections as Data: Part to Whole* will fund 12 teams, across two cohorts, to address the challenge of collections as data implementation *and* use. 
 
 Cohort 1 Call for Proposals can be found [**here**]().
  
