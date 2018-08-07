@@ -20,6 +20,13 @@ With support from the Andrew W. Mellon foundation, we will fund 12 teams. 6 team
 
 Given the challenge of this type of work, funded teams will become part of a cohort and will be supported through a two-day Team Lead Institute where the team leaders, mentioned above, will be invited to learn from others and strengthen their work plans. To ensure that the work of funded teams can be a model for new scholars and institutions in undertaking similar projects, team leads will also present their work at a public facing summative forum at a later date. All three project leads for each project will be expected to participate in the Team Lead Institute and Summative Forum. The cost of attendance for each of the participants will be covered by the grant and need not be budgeted in project proposals.
 
+Funding may be used for the following activities:
+
+- Buying out staff and/or faculty time
+- Fees associated with team training
+- Room rental and catering for meetings
+- Conference travel to present on the project
+
 ### Eligibility
 
 Projects must be hosted by an institution of higher education in the United States. 
@@ -47,13 +54,6 @@ Projects must be hosted by an institution of higher education in the United Stat
 Strong proposals will further evidence how project team members will be administratively supported throughout the project and how the project will continue to be supported, and potentially expanded, after the funded project is complete.
 
 We discourage proposals that ask for funds for contingent or temporary labor. Student labor may be funded through the project as long as the students are fairly paid, and all participants are credited in project materials. Funds may not be used to pay for digitization or hardware.
-
-Funding may be used for the following activities:
-
-- Buying out staff and/or faculty time
-- Fees associated with team training
-- Room rental and catering for meetings
-- Conference travel to present on the project
 
 ### Submissions
 
