@@ -21,10 +21,10 @@ Given the challenge of this type of work, funded teams will become part of a coh
 
 ### Evaluation Criteria
 
-* The proposed project (especially in the draft collections as data service plan and the draft implementation plan) will demonstrate:
- - innovative organizational thinking as it applies to the roles and services needed to support the use of collections as data 
- - local sustainability 
- - evidence of ready potential for adaptability by other institutions
+1. The proposed project (especially in the draft collections as data service plan and the draft implementation plan) will demonstrate:
+   - innovative organizational thinking as it applies to the roles and services needed to support the use of collections as data 
+   - local sustainability 
+   - evidence of ready potential for adaptability by other institutions
 
 
 # Contact  
