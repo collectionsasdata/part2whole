@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "Call for Proposals"
+title:  "💡 Call for Proposals 💡"
 ---
 ---
 
