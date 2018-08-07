@@ -5,6 +5,7 @@ title:  "Call for Proposals"
 ---
 
 **Cohort 1 Deadline: October 31, 2018**
+
 Cohort 2 Deadline: October 31, 2019 
 
 ### Context
@@ -37,7 +38,7 @@ Given the challenge of this type of work, funded teams will become part of a coh
 
 5. The proposed project will utilize open source technologies that aim for interoperability with a broader open scholarly communication infrastructure. 
 
-**Collections as Data: Part to Whole** will place emphasis on proposals that demonstrate holistic organizational approaches to supporting collections as data use. Competitive proposals will simultaneously demonstrate intention to create collections as data that have high research value and the capacity to serve underrepresented communities. In light of the important work being done around digital archiving, born digital collections, and marginalized communities (Documenting the Now, for example), we are especially interested in seeing proposals from those communities. 
+*Collections as Data: Part to Whole* will place emphasis on proposals that demonstrate holistic organizational approaches to supporting collections as data use. Competitive proposals will simultaneously demonstrate intention to create collections as data that have high research value and the capacity to serve underrepresented communities. In light of the important work being done around digital archiving, born digital collections, and marginalized communities (Documenting the Now, for example), we are especially interested in seeing proposals from those communities. 
 
 Strong proposals will further evidence how project team members will be administratively supported throughout the project and how the project will continue to be supported, and potentially expanded, after the funded project is complete.
 
@@ -59,15 +60,15 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
 4. Summary of project
 
-5. Rationale
+5. Project Rationale
 
    - The reason for the project, how it aims to serve particular communities; to what extent, if any, needs are currently addressed by your institution or other institutions, what needs to be done; what your institution needs to accomplish these tasks.
 
 6. Statement of Significance
 
-7. A preliminary draft of a collections as data service plan describing the roles and services within the institution that will support the use of the collections as data. 
+7. A preliminary draft of a collections as data service plan describing the roles and services within the institution that will support the use of the collections as data 
 
-8. A preliminary draft of an implementation plan describing the workflows and technologies required for creating the collections as data.
+8. A preliminary draft of an implementation plan describing the workflows and technologies required for creating the collections as data
 
 9. An overview of the material to be made available as data
 
@@ -79,9 +80,9 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
 13. Statements of support
 
-    - from the head of the library addressing what concrete measures they will take to make sure the project team has the resources it needs to complete the project. This may include proposed temporary revisions to job descriptions and the establishment of official working groups with representation at leadership council meetings.
+    - from the head of the library addressing what concrete measures they will take to make sure the project team has the resources it needs to complete the project - this may include proposed temporary revisions to job descriptions and the establishment of official working groups with representation at leadership council meetings
 
-    - from the library administrator addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks.
+    - from the library administrator addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks
 
     - from the Project Lead describing how the project will be organized 
 
