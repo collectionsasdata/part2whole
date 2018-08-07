@@ -21,11 +21,79 @@ Given the challenge of this type of work, funded teams will become part of a coh
 
 ### Evaluation Criteria
 
-1. The proposed project (especially in the draft collections as data service plan and the draft implementation plan) will demonstrate:
+1. The proposed project will demonstrate:
+
    - innovative organizational thinking as it applies to the roles and services needed to support the use of collections as data 
+
    - local sustainability 
+
    - evidence of ready potential for adaptability by other institutions
 
+2. Proposed collections as data will articulate significant research value. Projects that reflect the perspectives of underrepresented and/or oppressed groups are highly encouraged.
+
+3. The proposed project will demonstrate commitment to developing and implementing processes for addressing complex ethical issues inherent to engagement with cultural heritage data.
+
+4. The proposed project will demonstrate knowledge of complementary collections, standards, and initiatives in the library field and scholarly disciplines that speak to project goals. 
+
+5. The proposed project will utilize open source technologies that aim for interoperability with a broader open scholarly communication infrastructure. 
+
+**Collections as Data: Part to Whole** will place emphasis on proposals that demonstrate holistic organizational approaches to supporting collections as data use. Competitive proposals will simultaneously demonstrate intention to create collections as data that have high research value and the capacity to serve underrepresented communities. In light of the important work being done around digital archiving, born digital collections, and marginalized communities (Documenting the Now, for example), we are especially interested in seeing proposals from those communities. 
+
+Strong proposals will further evidence how project team members will be administratively supported throughout the project and how the project will continue to be supported, and potentially expanded, after the funded project is complete.
+
+We discourage proposals that ask for funds for contingent or temporary labor. Student labor may be funded through the project as long as the students are fairly paid, and all participants are credited in project materials. Funds may not be used to pay for digitization or hardware.
+
+### Eligibility
+
+Projects must be hosted by an institution of higher education in the United States. 
+
+### Submissions
+
+Proposals should follow this format and be submitted [**here**](https://docs.google.com/forms/d/e/1FAIpQLSePQ5osAJLzqWEZZys7LpdPn3C5KiSzxbSfhBuoF1_-iztVQA/viewform?usp=sf_link). 
+
+1. Project Title
+
+2. List of team members, titles, and roles on the project 
+
+3. Investigator Bios
+
+4. Summary of project
+
+5. Rationale
+
+   - The reason for the project, how it aims to serve particular communities; to what extent, if any, needs are currently addressed by your institution or other institutions, what needs to be done; what your institution needs to accomplish these tasks.
+
+6. Statement of Significance
+
+7. A preliminary draft of a collections as data service plan describing the roles and services within the institution that will support the use of the collections as data. 
+
+8. A preliminary draft of an implementation plan describing the workflows and technologies required for creating the collections as data.
+
+9. An overview of the material to be made available as data
+
+10. Timeline of completion 
+
+11. Budget and Budget Narrative
+
+12. Sustainability plan for the care and continued use of the collection after the funded portion of the project ends
+
+13. Statements of support
+
+    - from the head of the library addressing what concrete measures they will take to make sure the project team has the resources it needs to complete the project. This may include proposed temporary revisions to job descriptions and the establishment of official working groups with representation at leadership council meetings.
+
+    - from the library administrator addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks.
+
+    - from the Project Lead describing how the project will be organized 
+
+    - from the disciplinary faculty member addressing how the data produced by this project will support the advance of research 
+
+
+Funding may be used for the following activities:
+
+- Buying out staff and/or faculty time
+- Fees associated with team training
+- Room rental and catering for meetings
+- Conference travel to present on the project
 
 # Contact  
 
