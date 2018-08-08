@@ -33,7 +33,7 @@ Projects must be hosted by an institution of higher education in the United Stat
 
 ### Evaluation Criteria
 
-1. The proposed project will demonstrate:
+1. The proposed project - especially in the draft collections as data service plan and the draft implementation plan - will demonstrate:
 
    - innovative organizational thinking as it applies to the roles and services needed to support the use of collections as data 
 
