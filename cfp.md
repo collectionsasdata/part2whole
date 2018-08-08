@@ -59,7 +59,7 @@ We discourage proposals that ask for funds for contingent or temporary labor. St
 
 Proposals should follow this format and be submitted [**here**](https://docs.google.com/forms/d/e/1FAIpQLSePQ5osAJLzqWEZZys7LpdPn3C5KiSzxbSfhBuoF1_-iztVQA/viewform?usp=sf_link). 
 
-1. Project Title
+1. Name of project
 
 2. List of team members, titles, and roles on the project 
 
