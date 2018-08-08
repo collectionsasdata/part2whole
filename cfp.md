@@ -29,7 +29,7 @@ Funding may be used for the following activities:
 
 ### Eligibility
 
-Projects must be hosted by an institution of higher education in the United States. 
+The applicant institution must be located in the United States or in an associated entity, e.g., the Commonwealth of Puerto Rico or American Samoa.
 
 ### Evaluation Criteria
 
