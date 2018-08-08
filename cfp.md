@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "💡 Call for Proposals 💡"
+title:  "💡 Cohort 1 Call for Proposals 💡"
 ---
 ---
 
