@@ -91,7 +91,7 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
     - from the library administrator addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks
 
-    - from the Project Lead describing how the project will be organized 
+    - from the project Lead describing how the project will be organized 
 
     - from the disciplinary faculty member addressing how the data produced by this project will support the advance of research 
 
