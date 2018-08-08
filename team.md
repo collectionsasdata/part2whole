@@ -11,3 +11,25 @@ title:  "Team"
 
 [**Stewart Varner**](https://stewartvarner.com/) is the Managing Director of the Price Lab for Digital Humanities at the University of Pennsylvania. Prior to Penn he served as the Digital Scholarship Librarian at UNC-Chapel Hill, and the Digital Scholarship Coordinator at Emory. He earned a Ph.D. in American Studies from Emory and his Masters of Library and Information Science from the University of North Texas.
 
+### Advisory Board
+
+**Dan Cohen**, Vice Provost for Information Collaboration; Professor of History, Northeastern University
+
+
+**Greg Eow**, Associate Director for Collections, Massachusetts Institute of Technology 
+
+
+**Karen Estlund**, Associate Dean for Technology and Digital Strategies, Penn State University 
+
+
+**Trevor Munoz**, Interim Director of the Maryland Institute for Technology in the Humanities (MITH), Assistant Dean for Digital Humanities Research at the University of Maryland Libraries
+
+
+**Erin O'Meara**, Digital Preservation Services Manager, artefactual
+
+**Barbara Rockenbach**, Associate University Librarian for Research and Learning, Columbia University
+
+
+
+
+
