@@ -22,7 +22,7 @@ title:  "Team"
 **Karen Estlund**, Associate Dean for Technology and Digital Strategies, Penn State University 
 
 
-**Trevor Munoz**, Interim Director of the Maryland Institute for Technology in the Humanities (MITH), Assistant Dean for Digital Humanities Research at the University of Maryland Libraries
+**Trevor Muñoz**, Interim Director of the Maryland Institute for Technology in the Humanities (MITH), Assistant Dean for Digital Humanities Research at the University of Maryland Libraries
 
 
 **Erin O'Meara**, Digital Preservation Services Manager, artefactual
