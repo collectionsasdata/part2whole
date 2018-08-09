@@ -4,11 +4,13 @@ title:  "💡 Call for Proposals 💡"
 ---
 ---
 
-**Cohort 1 Deadline: October 31, 2018**
-Cohort 1 Project Initiation: January 2019
-Cohort 1 Project Completion: April 2020
+**Cohort 1** 
+- Deadline: October 31, 2018
+- Initiation: January 2019
+- Completion: April 2020
 
-Cohort 2 Deadline: October 31, 2019 
+Cohort 2 
+- Deadline: October 31, 2019 
 
 ### Context
 
