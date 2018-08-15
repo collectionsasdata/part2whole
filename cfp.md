@@ -91,7 +91,7 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
 13. Statements of support
 
-    - from the library director or administrative equivalent addressing what concrete measures they will take to make sure the project team has the resources it needs to complete the project - this may include proposed temporary revisions to job descriptions and the establishment of official working groups with representation at leadership council meetings
+    - from the library director addressing what concrete measures they will take to make sure the project team has the resources it needs to complete the project - this may include proposed temporary revisions to job descriptions and the establishment of official working groups with representation at leadership council meetings
 
     - from the librarian with senior administrative responsibility addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks
 
