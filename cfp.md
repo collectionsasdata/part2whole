@@ -18,7 +18,7 @@ A growing number of cultural heritage organizations have invested in the creatio
 
 ### Opportunity
 
-With support from the Andrew W. Mellon foundation, we will fund 12 teams. 6 teams will be funded in cohort 1. Each team can apply for **$30,000 - $80,000**. To ensure that project results will be valuable to scholars and sustainable within libraries, we are seeking proposals from collaborative teams **jointly led by a librarian with senior administrative responsibilities, a disciplinary scholar, and a project lead.**  
+With support from the Andrew W. Mellon foundation, we will fund 12 teams. 6 teams will be funded in cohort 1. Each team can apply for **$30,000 - $80,000**. To ensure that project results will be valuable to scholars and sustainable within libraries, we are seeking proposals from collaborative teams **jointly led by a librarian, museum professional, or archivist with senior administrative responsibilities, a disciplinary scholar, and a project lead.**  
 
 *Throughout the proposal process, we encourage you to send questions to the project team. Question can be sent using this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSdUpy6FxMSxpM814v03-uscvoFs6yhHASq9z3SVpNdkkqYA0w/viewform?usp=sf_link). We will respond promptly and schedule conversations with the project team and/or advisory board members.* 
 
