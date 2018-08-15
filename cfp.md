@@ -18,7 +18,7 @@ A growing number of cultural heritage organizations have invested in the creatio
 
 ### Opportunity
 
-With support from the Andrew W. Mellon foundation, we will fund 12 teams. 6 teams will be funded in cohort 1. Each team can apply for **$30,000 - $80,000**. To ensure that project results will be valuable to scholars and sustainable within libraries, we are seeking proposals from collaborative teams **jointly led by a librarian with senior administrative responsibilities, a disciplinary scholar, and a project lead.**  
+With support from the Andrew W. Mellon foundation, we will fund 12 teams. 6 teams will be funded in cohort 1. Each team can apply for **$30,000 - $80,000**. To ensure that project results will be valuable to scholars and sustainable within libraries, we are seeking proposals from collaborative teams ** jointly led by a librarian, archivist, or museum professional with senior administrative responsibilities, a disciplinary scholar, and a project lead.**  
 
 *Throughout the proposal process, we encourage you to send questions to the project team. Question can be sent using this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSdUpy6FxMSxpM814v03-uscvoFs6yhHASq9z3SVpNdkkqYA0w/viewform?usp=sf_link). We will respond promptly and schedule conversations with the project team and/or advisory board members.* 
 
@@ -91,15 +91,14 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
 13. Statements of support
 
-    - from the library director addressing what concrete measures they will take to make sure the project team has the resources it needs to complete the project - this may include proposed temporary revisions to job descriptions and the establishment of official working groups with representation at leadership council meetings
+    - from the library director or administrative equivalent  addressing what concrete measures they will take to make sure the project team has the resources it needs to complete the project - this may include proposed temporary revisions to job descriptions and the establishment of official working groups with representation at leadership council meetings
 
-    - from the librarian with senior administrative responsibility addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks
+    - from the librarian, archivist, or museum professional with senior administrative responsibility addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks
 
     - from the disciplinary faculty member addressing how the data produced by this project will support the advance of research 
 
     - from the project lead describing how the project will be organized 
 
-   
 # Contact  
 
 Thomas Padilla, <thomas.padilla@unlv.edu>
