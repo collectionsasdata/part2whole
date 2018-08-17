@@ -95,7 +95,7 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
     - from the librarian, archivist, or museum professional with senior administrative responsibility addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks
 
-    - from the disciplinary faculty member addressing how the data produced by this project will support the advance of research 
+    - from the disciplinary scholar addressing how the data produced by this project will support the advance of research 
 
     - from the project lead describing how the project will be organized 
 
