@@ -6,8 +6,8 @@ title:  "💡 Call for Proposals 💡"
 
 Cohort 1 
 - **Deadline: October 31, 2018**
-- Initiation: January 2019
-- Completion: April 2020
+- Project Initiation: January 2019
+- Project Completion: April 2020
 
 Cohort 2 
 - Deadline: October 31, 2019 
