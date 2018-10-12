@@ -31,6 +31,8 @@ Funding may be used for the following activities:
 - Room rental and catering for meetings
 - Conference travel to present on the project
 
+We discourage proposals that ask for funds for contingent or temporary labor. Student labor may be funded through the project as long as the students are fairly paid, and all participants are credited in project materials. Funds may not be used to pay for digitization or hardware. Per [The Andrew W. Mellon Foundation](https://mellon.org/programs/scholarly-communications/inquiries-and-guidelines/), indirect costs cannot be funded. 
+
 ### Eligibility
 
 The applicant institution must be located in the United States or in an associated entity, e.g., the Commonwealth of Puerto Rico or American Samoa.
@@ -56,8 +58,6 @@ The applicant institution must be located in the United States or in an associat
 *Collections as Data: Part to Whole* will place emphasis on proposals that demonstrate holistic organizational approaches to supporting collections as data use. Competitive proposals will simultaneously demonstrate intention to create collections as data that have high research value and the capacity to serve underrepresented communities. In light of the important work being done around digital archiving, born digital collections, and marginalized communities (Documenting the Now, for example), we are especially interested in seeing proposals from those communities. 
 
 Strong proposals will further evidence how project team members will be administratively supported throughout the project and how the project will continue to be supported, and potentially expanded, after the funded project is complete.
-
-We discourage proposals that ask for funds for contingent or temporary labor. Student labor may be funded through the project as long as the students are fairly paid, and all participants are credited in project materials. Funds may not be used to pay for digitization or hardware.
 
 ### Submissions
 
