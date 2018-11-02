@@ -22,10 +22,11 @@ title:  "Team"
 **Karen Estlund**, Associate Dean for Technology and Digital Strategies, Penn State University 
 
 
+**Bergis Jules**, Director of Equity Initiatives, SHIFT
+
+
 **Trevor Muñoz**, Interim Director of the Maryland Institute for Technology in the Humanities (MITH), Assistant Dean for Digital Humanities Research at the University of Maryland Libraries
 
-
-**Erin O'Meara**, Digital Preservation Services Manager, artefactual
 
 **Barbara Rockenbach**, Associate University Librarian for Research and Learning, Columbia University
 
