@@ -5,7 +5,7 @@ date:   2018-12-12
 teaser: "Announcing Collections as Data Cohort 1"
 ---
 ---
-Earlier this year Collections as Data: Part to Whole was [**awarded $750,000 by the Andrew W. Mellon Foundation**](https://collectionsasdata.github.io/part2whole/mellon/). $600,000 of this award will be regranted, across two cohorts, to foster development of models that support collections as data implementation and reconceptualization of services and roles that drive scholarly use. Today we announce the formation of cohort 1.  
+Earlier this year Collections as Data: Part to Whole was [**awarded $750,000 by the Andrew W. Mellon Foundation**](https://collectionsasdata.github.io/part2whole/mellon/). $600,000 of this award will be regranted, across two cohorts, to foster development of models that support collections as data implementation and use. Today we announce the formation of cohort 1.  
 
 The six projects in cohort 1 come from a range of institutional contexts, grounded by a desire to re-imagine roles and services so that we and users can explore the potential of collections as data. In addition to using regranted funds to pursue their projects, teams will engage in joint developmental activities that culminate in a public facing forum and the release of a series of open resources that aim to advance collections as data work across the cultural heritage community. 
 
