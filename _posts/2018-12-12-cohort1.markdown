@@ -10,37 +10,49 @@ Earlier this year Collections as Data: Part to Whole was [**awarded $750,000 by 
 The six projects in cohort 1 come from a range of institutional contexts, grounded by a desire to re-imagine roles and services so that we and users can explore the potential of collections as data. In addition to using regranted funds to pursue their projects, teams will engage in joint developmental activities that culminate in a public facing forum and the release of a series of open resources that aim to advance collections as data work across the cultural heritage community. 
 
 **Collections as Data: Redefining Creators, Users, and Stewards of the Charles “Teenie” Harris Photographic Archival Collection**
+
 Carnegie Museum of Art
+
 Dominique Luster, Charlene Foggie-Barnett, Ed Motznik, Samantha Ticknor
 
 *This project seeks to build upon the rich history of the Teenie Harris archival collection and develop new opportunities for computer-generated creation and computational manipulation of collection metadata that is both produced and used by the African American community and the Carnegie Museum of Art. This project aims to develop and document the service and use capabilities and limitations of machine learning, text parsing, and computer vision technologies to make meaningful contributions to archival metadata. The public facing deliverables will combine the notion of creators and users of the Harris data and will result in a suite of web-based in-gallery interactives that have the functionality of engagement with and contribution to the collection as data.*
 
 **On the Books: Jim Crow and Algorithms of Resistance**
+
 University of North Carolina Chapel Hill
+
 Nathan Kelber, María R. Estorino, Amanda Henley, Matt Jansen, Lorin Bruckner, Sarah Carrier, William Sturkey
 
 *From Collection Records to Data Layers: A Critical Experiment in Collaborative Practice aims to develop effective strategies for enriching existing library-generated collections data through research-driven and critically interpretive layers of additional data that are conducive to computational use. The project team will collaborate with library partners and undergraduate scholars in the English Department to create enrichment data layers that extend the catalog data for a diverse array of materials held by the University of Pittsburgh Library System—specifically, serials (e.g., journals, magazines, newspapers, newsletters) and ephemera (e.g., broadsides, flyers, cartoons) that reflect the perspectives of African Americans, American Labor Unionists, American left-wing organizations, feminists, and the LGBTQ community. The project will yield actionable datasets and reproducible workflows for creating and sharing collections-based data layers, while teaching computationally minded data stewardship practices and fostering scholarly engagement with collections produced by marginalized and underrepresented groups.*
 
 **The Native American Educational Services College Digital Library Project**
+
 Northwestern University
+
 Josh Honn, Kelly Wisecup, John Dorr, Dorene Wiese
 
 *The Native American Educational Services (NAES) College Digital Library Project is a metadata and meta-data project situated in Native American & Indigenous Studies and Library & Information Science that seeks to form a process and pedagogy around the data curation of at-risk community-based research collections, in our case an urban American Indian college open from 1974-2005. Working in collaboration with Native community organizations, Northwestern University librarians and faculty will curate data from digitized NAES College library catalog cards, create a digital humanities website presenting context for the data, and write a white paper examining issues of data sovereignty.  The project seeks to circulate ethical, sustainable data curation processes for multiple fields and institutions, especially those collaborating with Native nations and organizations.*
 
 **From Collection Records to Data Layers: A Critical Experiment in Collaborative Practice**
+
 University of Pittsburgh
+
 Tyrica Terry Kapral, Aaron Brenner, Matthew J. Lavin
 
 *From Collection Records to Data Layers: A Critical Experiment in Collaborative Practice aims to develop effective strategies for enriching existing library-generated collections data through research-driven and critically interpretive layers of additional data that are conducive to computational use. The project team will collaborate with library partners and undergraduate scholars in the English Department to create enrichment data layers that extend the catalog data for a diverse array of materials held by the University of Pittsburgh Library System—specifically, serials (e.g., journals, magazines, newspapers, newsletters) and ephemera (e.g., broadsides, flyers, cartoons) that reflect the perspectives of African Americans, American Labor Unionists, American left-wing organizations, feminists, and the LGBTQ community. The project will yield actionable datasets and reproducible workflows for creating and sharing collections-based data layers, while teaching computationally minded data stewardship practices and fostering scholarly engagement with collections produced by marginalized and underrepresented groups.*
 
 **Linking Lost Jazz Shrines Project**
+
 Weeksville Heritage
+
 Obden Mondesir, Zakiya Collier, Cristina Pattuelli
 
 *The Linking Jazz Shrine Project seeks to apply linked open data principles to our Weeksville Lost Jazz Shrines of Brooklyn Oral history collection. This collection was part of a 2008 research project that documented Central Brooklyn's cultural legacy of jazz history between the 1930s and 1960s. By applying linked open data, we plan to make these collections and the connections they provide more discoverable to jazz researchers that would benefit from a significant collection about Central Brooklyn’s nearly lost jazz culture.*
 
 **Uncovering Health History: Transcribing and Publishing Early Twentieth-Century Tuberculosis Patient Records as Data**
+
 University of Denver
+
 Kim Pham, Kevin Clair, Jack Maness, Jeanne Abrams, Fernando Reyes, Jeff Rynhart, Alice Tarrant
 
 *This project will use handwritten text recognition (HTR) to create transcriptions of records that have been unavailable through traditional OCR processes from the Jewish Consumptives' Relief Society, a tuberculosis sanatorium located in Denver from 1904 to 1954. These records represent a valuable archive of primary source materials regarding the treatment history of tuberculosis in the early 20th century and the history of primarily Jewish and Eastern European immigration to Denver during the same time period. We intend to develop capacity in services and infrastructure to support and use HTR technologies in our regular workflow to produce collections as data and to contribute to the emerging HTR technology ecosystem.*
