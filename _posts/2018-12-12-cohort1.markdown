@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "🔊 Announcing Collections as Data Cohort 1 🔊"
+title:  "👋 Announcing Collections as Data Cohort 1 👋"
 date:   2018-12-12 
 teaser: "Announcing Collections as Data Cohort 1"
 ---
