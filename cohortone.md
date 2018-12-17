@@ -4,28 +4,50 @@ title:  "Cohort 1 Projects (1/2019-4/2020)"
 ---
 ---
 
-#### Collections as Data: Part to Whole
+**Collections as Data: Redefining Creators, Users, and Stewards of the Charles “Teenie” Harris Photographic Archival Collection**
 
-[Cohort 1 Call for Proposals](https://collectionsasdata.github.io/part2whole/cfp/)
+Carnegie Museum of Art
 
-[Grant Narrative](https://github.com/collectionsasdata/part2whole/raw/master/cad_part2whole_narrative.pdf)
+Dominique Luster, Charlene Foggie-Barnett, Ed Motznik, Samantha Ticknor
 
-#### Always Already Computational: Collections as Data
+*This project seeks to build upon the rich history of the Teenie Harris archival collection and develop new opportunities for computer-generated creation and computational manipulation of collection metadata that is both produced and used by the African American community and the Carnegie Museum of Art. This project aims to develop and document the service and use capabilities and limitations of machine learning, text parsing, and computer vision technologies to make meaningful contributions to archival metadata. The public facing deliverables will combine the notion of creators and users of the Harris data and will result in a suite of web-based in-gallery interactives that have the functionality of engagement with and contribution to the collection as data.*
 
-[The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/)
+**On the Books: Jim Crow and Algorithms of Resistance**
 
-[Collections as Data Facets](https://collectionsasdata.github.io/facets/)
+University of North Carolina Chapel Hill
 
-[Collections as Data Personas](https://collectionsasdata.github.io/personas/)
+Nathan Kelber, María R. Estorino, Amanda Henley, Matt Jansen, Lorin Bruckner, Sarah Carrier, William Sturkey
 
-[Collections as Data Forum 1 Position Statements](https://github.com/collectionsasdata/collectionsasdata.github.io/raw/master/aac_positionstatements.pdf)
+*On the Books: Jim Crow and Algorithms of Resistance will create the most complete list of North Carolina Jim/Jane Crow laws (1877-1965) since Civil Rights pioneer Pauli Murray’s States’ Laws on Race and Color (1951) by using machine learning to analyze a corpus of more than one hundred years of North Carolina public, private, and local session laws from the end of the Civil War through the Civil Rights Movement (1865-1968). The project is inspired by current conversations about algorithmic bias, big data, and race in the work of authors such as Safiya Noble, Virginia Eubanks, and Cathy O’Neil. The results of this research will be shared in a plain-text corpus, a website for educators and researchers, a white paper, a code repository, a methods workshop at a Triangle Digital Humanities Institute, a Carolina K-12 teacher workshop, and a future library conference.*
 
-[Collections as Data National Forum 2 Livestream Recording](https://www.youtube.com/watch?v=ENaPV2XmO9I)
+**The Native American Educational Services College Digital Library Project**
 
-[Serendipitous Collections as Data](https://collectionsasdata.github.io/ideas/)
+Northwestern University
 
-#### Collections as Data
+Josh Honn, Kelly Wisecup, John Dorr, Dorene Wiese
 
-[Collections as Data Google Group](https://groups.google.com/forum/#!forum/collectionsasdata)
+*The Native American Educational Services (NAES) College Digital Library Project is a metadata and meta-data project situated in Native American & Indigenous Studies and Library & Information Science that seeks to form a process and pedagogy around the data curation of at-risk community-based research collections, in our case an urban American Indian college open from 1974-2005. Working in collaboration with Native community organizations, Northwestern University librarians and faculty will curate data from digitized NAES College library catalog cards, create a digital humanities website presenting context for the data, and write a white paper examining issues of data sovereignty.  The project seeks to circulate ethical, sustainable data curation processes for multiple fields and institutions, especially those collaborating with Native nations and organizations.*
 
-[Collections as Data Group Library](https://www.zotero.org/groups/2171423/collections_as_data_-_projects_initiatives_readings_tools_datasets)
+**From Collection Records to Data Layers: A Critical Experiment in Collaborative Practice**
+
+University of Pittsburgh
+
+Tyrica Terry Kapral, Aaron Brenner, Matthew J. Lavin
+
+*From Collection Records to Data Layers: A Critical Experiment in Collaborative Practice aims to develop effective strategies for enriching existing library-generated collections data through research-driven and critically interpretive layers of additional data that are conducive to computational use. The project team will collaborate with library partners and undergraduate scholars in the English Department to create enrichment data layers that extend the catalog data for a diverse array of materials held by the University of Pittsburgh Library System—specifically, serials (e.g., journals, magazines, newspapers, newsletters) and ephemera (e.g., broadsides, flyers, cartoons) that reflect the perspectives of African Americans, American Labor Unionists, American left-wing organizations, feminists, and the LGBTQ community. The project will yield actionable datasets and reproducible workflows for creating and sharing collections-based data layers, while teaching computationally minded data stewardship practices and fostering scholarly engagement with collections produced by marginalized and underrepresented groups.*
+
+**Linking Lost Jazz Shrines Project**
+
+Weeksville Heritage
+
+Obden Mondesir, Zakiya Collier, Cristina Pattuelli
+
+*The Linking Jazz Shrine Project seeks to apply linked open data principles to our Weeksville Lost Jazz Shrines of Brooklyn Oral history collection. This collection was part of a 2008 research project that documented Central Brooklyn's cultural legacy of jazz history between the 1930s and 1960s. By applying linked open data, we plan to make these collections and the connections they provide more discoverable to jazz researchers that would benefit from a significant collection about Central Brooklyn’s nearly lost jazz culture.*
+
+**Uncovering Health History: Transcribing and Publishing Early Twentieth-Century Tuberculosis Patient Records as Data**
+
+University of Denver
+
+Kim Pham, Kevin Clair, Jack Maness, Jeanne Abrams, Fernando Reyes, Jeff Rynhart, Alice Tarrant
+
+*This project will use handwritten text recognition (HTR) to create transcriptions of records that have been unavailable through traditional OCR processes from the Jewish Consumptives' Relief Society, a tuberculosis sanatorium located in Denver from 1904 to 1954. These records represent a valuable archive of primary source materials regarding the treatment history of tuberculosis in the early 20th century and the history of primarily Jewish and Eastern European immigration to Denver during the same time period. We intend to develop capacity in services and infrastructure to support and use HTR technologies in our regular workflow to produce collections as data and to contribute to the emerging HTR technology ecosystem.*
