@@ -11,8 +11,6 @@ title:  "Part to Whole"
 
 Over a period of three years, *Part to Whole* [**will fund and programmatically support**](https://collectionsasdata.github.io/part2whole/cfp/) two cohorts. Cohorts will be comprised of project teams jointly led by librarians and disciplinary scholars. Project teams will develop models that support collections as data implementation and holistic reconceptualization of services and roles that support scholarly use. Collections as data produced by project activity will exhibit high research value, demonstrate the capacity to serve underrepresented communities, represent a diversity of content types, languages, and descriptive practices, and arise from a range of institutional contexts. 
 
-💡 [**Cohort 1 Call for Proposals is up**](https://collectionsasdata.github.io/part2whole/cfp/)! 💡
-
 # Contact  
 
 Thomas Padilla, <thomas.padilla@unlv.edu>
