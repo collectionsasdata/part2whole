@@ -12,6 +12,8 @@ title:  "Resources"
 
 #### Always Already Computational: Collections as Data
 
+[Final report and project deliverables](https://osf.io/mx6uk/wiki/home/) 
+
 [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/)
 
 [Collections as Data Facets](https://collectionsasdata.github.io/facets/)
