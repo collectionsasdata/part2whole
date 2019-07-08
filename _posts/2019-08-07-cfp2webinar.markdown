@@ -16,7 +16,7 @@ We look forward to working with you and welcome any questions that you might hav
 
 Thomas Padilla (University of Nevada Las Vegas)
 
-Hannah Scates Kettler (University of Iowa)
+Hannah Scates Kettler (Iowa State University)
 
 Laurie Allen (University of Pennsylvania)
 
