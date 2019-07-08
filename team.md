@@ -16,7 +16,7 @@ title:  "Team"
 **Dan Cohen**, Vice Provost for Information Collaboration; Professor of History, Northeastern University
 
 
-**Greg Eow**, Associate Director for Collections, Massachusetts Institute of Technology 
+**Greg Eow**, President, Center for Research Libraries
 
 
 **Karen Estlund**, Associate Dean for Technology and Digital Strategies, Penn State University 
