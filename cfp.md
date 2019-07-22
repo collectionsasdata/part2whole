@@ -33,7 +33,7 @@ Competitive proposals will evidence commitment to creative and sustainable colla
 
 ### What you’ll receive if funded   
 
-$50,000 to support the development of a use model, an implementation model, and a new collection as data.  
+**$50,000** to support the development of a use model, an implementation model, and a new collection as data.  
 
 Funding may be used for the following activities:
 * Buying out staff and/or faculty time
