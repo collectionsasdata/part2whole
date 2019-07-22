@@ -4,9 +4,9 @@ title:  "💡 Call for Proposals 💡"
 ---
 ---
 
-**Deadline: October 31, 2019** 
-Project Initiation: January 2020
-Project Completion: April 2021
+- **Submission Deadline: October 31, 2019** 
+- Project Initiation: January 2020
+- Project Completion: April 2021
 
 
 *Collections as Data: Part to Whole* is pleased to share the cohort 2 call for proposals! We’ll award **$300,000** to six teams in this round and look forward to working with you.  We welcome any questions that you might have as you consider putting a proposal forward. Though we continue to support the development of collection as data focused on manuscripts material, we are especially looking forward to collections as data that represent various types of objects such as 3-dimensional artifacts, audio and visual materials, and born digital. Feel free to contact us directly or using [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSdUpy6FxMSxpM814v03-uscvoFs6yhHASq9z3SVpNdkkqYA0w/viewform?usp=sf_link) with questions.
