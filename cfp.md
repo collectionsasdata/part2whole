@@ -13,7 +13,9 @@ title:  "💡 Call for Proposals 💡"
 
 ### A bit of background
 
-Increasingly, cultural heritage organizations dedicate effort to ethically grounded creation of machine actionable collections. The concept of [collections as data](https://collectionsasdata.github.io/statement/) is frequently used to align efforts in this space. In 2016, [*Always Already Computational: Collections as Data*](https://osf.io/mx6uk/wiki/home/) documented, iterated on, and shared current and potential approaches to developing machine actionable cultural heritage collections. *Always Already Computational* demonstrated that librarians, archivists, and museum professionals were eager to expand the potential use of their collections. **While interest is broad, *Always Already Computational found that cultural heritage professionals desired opportunities to shift work in this space from an emergent to core organizational activity.** Collections as Data: Part to Whole was formed to help spark the shift. 
+Increasingly, cultural heritage organizations dedicate effort to ethically grounded creation of machine actionable collections. The concept of [collections as data](https://collectionsasdata.github.io/statement/) is frequently used to align efforts in this space. In 2016, [*Always Already Computational: Collections as Data*](https://osf.io/mx6uk/wiki/home/) documented, iterated on, and shared current and potential approaches to developing machine actionable cultural heritage collections. *Always Already Computational* demonstrated that librarians, archivists, and museum professionals were eager to expand the potential use of their collections. **While interest is broad, Always Already Computational found that cultural heritage professionals desired opportunities to shift work in this space from an emergent to core organizational activity.** 
+
+*Collections as Data: Part to Whole* was formed to help spark this shift. 
 
 ### What we’re looking for 
 
