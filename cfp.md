@@ -22,11 +22,11 @@ Increasingly, cultural heritage organizations dedicate effort to ethically groun
 
 Teams apply for **$50,000** to support the development of a use model, an implementation model,  and a new collection as data.     
 
-**Use model** - should describe the positions, specific duties, services, and collaborations that will support computational use of collections as data by specific communities. Addresses how all of the above will be sustained post funding.
+- **Use model** - should describe the positions, specific duties, services, and collaborations that will support computational use of collections as data by specific communities. Addresses how all of the above will be sustained post funding.
 
-**Implementation model** - should describe the workflows, infrastructure, code, positions, specific duties, and services that make it possible to create and provide access to collections as data. Addresses how all of the above will be sustained post funding.
+- **Implementation model** - should describe the workflows, infrastructure, code, positions, specific duties, and services that make it possible to create and provide access to collections as data. Addresses how all of the above will be sustained post funding.
 
-**Collection as data** - exhibit high research value, demonstrate the capacity to serve underrepresented communities, represents a diversity of content types (text, images, audio, video, metadata, etc.), languages, and descriptive practices, and arises from a range of institutional contexts (R1, liberal arts college, community college, etc.). Your collection need not exhibit all content types listed.
+- **Collection as data** - exhibit high research value, demonstrate the capacity to serve underrepresented communities, represents a diversity of content types (text, images, audio, video, metadata, etc.), languages, and descriptive practices, and arises from a range of institutional contexts (R1, liberal arts college, community college, etc.). Your collection need not exhibit all content types listed.
 
 Competitive proposals will evidence commitment to creative and sustainable collaborations across an organization that support computational use of collections as data. As you develop your proposal, we encourage you to think about the kinds of collaborations you’ve been wanting to have with colleagues across your organization. Use this opportunity to bridge silos in unexpected ways. Plan for those bridges to be sustained. There is a place in this work for people throughout an organization, including but not limited to liaisonship, teaching and learning, repository development, digital collections, digital scholarship, archives, scholarly communication and more. Proposals are further strengthened by their ability to evidence how project team members will be administratively supported throughout their project and how the project will continue to be supported, and potentially expanded, after the funded project is complete.
 
