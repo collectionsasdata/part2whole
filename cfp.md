@@ -65,9 +65,9 @@ We discourage proposals that ask for funds for contingent or temporary labor. St
 
 3. Proposed collections as data evidence:
 - significant research value
-- the perspectives of underrepresented and/or oppressed groups are highly encouraged.
+- the perspectives of underrepresented and/or oppressed groups 
 
-4. Entire proposal demonstrates commitment to developing and implementing processes for addressing complex ethical issues inherent to engagement with cultural heritage data, and the needs of marginalized and underrepresented communities.
+4. The proposed project demonstrates commitment to developing and implementing processes for addressing complex ethical issues inherent to engagement with cultural heritage data, and the needs of marginalized and underrepresented communities.
 
 5. The proposed project evidences knowledge of complementary collections, standards, and initiatives in the library field and scholarly disciplines that speak to project goals.
 
