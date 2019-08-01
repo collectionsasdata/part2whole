@@ -12,7 +12,7 @@ On **August 5** we will offer an [**overview of the project and the CFP, followe
 
 On **August 19** we will have an [**open Q&A period**](). 
 
-In advance of the webinars we recommend reviewing the [Part to Whole grant narrative](https://github.com/collectionsasdata/part2whole/raw/master/cad_part2whole_narrative.pdf) and [cohort 1 project descriptions](https://collectionsasdata.github.io/part2whole/cohortone/). We look forward to working with you and welcome any questions that you might have as you consider putting a proposal forward. Feel free to contact us individually or collectively using this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSdUpy6FxMSxpM814v03-uscvoFs6yhHASq9z3SVpNdkkqYA0w/viewform?usp=sf_link). 
+In advance of the webinars we recommend reviewing the [Part to Whole grant narrative](https://github.com/collectionsasdata/part2whole/raw/master/cad_part2whole_narrative.pdf). We look forward to working with you and welcome any questions that you might have as you consider putting a proposal forward. Feel free to contact us individually or collectively using this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSdUpy6FxMSxpM814v03-uscvoFs6yhHASq9z3SVpNdkkqYA0w/viewform?usp=sf_link). 
 
 Thomas Padilla (University of Nevada Las Vegas)
 
