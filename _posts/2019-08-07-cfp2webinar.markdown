@@ -6,7 +6,7 @@ teaser: "Collections as Data Cohort 2 CFP Webinars"
 ---
 ---
 
-[Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/) will release the CFP for cohort 2 on **August 1**. The CFP will close on October 31. During this round $300,000 will be awarded to six teams. With CLIR's support, we are offering two webinars to support potential cohort 2 applicants.  
+The *Collections as Data: Part to Whole* [**cohort 2 CFP**](https://collectionsasdata.github.io/part2whole/cfp/) is now open! The CFP will close on October 31. During this round $300,000 will be awarded to six teams. With CLIR's support, we are offering two webinars to support potential cohort 2 applicants.  
 
 On **August 5** we will offer an [**overview of the project and the CFP, followed by Q&A**](https://clirdlf.zoom.us/webinar/register/beb5b14bf554b4594ac87b605f06faf5). 
 
