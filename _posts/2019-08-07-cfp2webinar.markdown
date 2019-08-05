@@ -10,7 +10,7 @@ The Collections as Data: Part to Whole [**cohort 2 CFP**](https://collectionsasd
 
 On **August 5** we will offer an [**overview of the project and the CFP, followed by Q&A**](https://clirdlf.zoom.us/webinar/register/beb5b14bf554b4594ac87b605f06faf5). 
 
-On **August 19** we will have an [**open Q&A period**](). 
+On **August 19** we will have an [**open Q&A period**](https://clirdlf.zoom.us/webinar/register/020a88f34967bf027510d14dfea9e911). 
 
 In advance of the webinars we recommend reviewing the [Part to Whole grant narrative](https://github.com/collectionsasdata/part2whole/raw/master/cad_part2whole_narrative.pdf). We look forward to working with you and welcome any questions that you might have as you consider putting a proposal forward. Feel free to contact us individually or collectively using this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSdUpy6FxMSxpM814v03-uscvoFs6yhHASq9z3SVpNdkkqYA0w/viewform?usp=sf_link). 
 
