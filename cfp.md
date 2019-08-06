@@ -75,9 +75,11 @@ We discourage proposals that ask for funds for contingent or temporary labor. St
 
 Strong proposals will further evidence how project team members will be administratively supported throughout the project and how the project will continue to be supported, and potentially expanded, after the funded project is complete.
 
-### A requirement 
+### Some requirements 
 
 Project leads for each project will participate in the Team Lead Institute and Summative Forum. The cost of attendance for the three team leads will be covered by Part to Whole and need not be budgeted in project proposals.
+
+Data and code developed in the course of the project must be released openly. Exceptions can be made for data in the event that open release presents an ethical issue. 
 
 ### Who can apply 
 
