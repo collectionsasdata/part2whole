@@ -95,21 +95,23 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
 4. Summary of Project 
 
-5. Project Rationale and Statement of Significance (approximately 1500 words)
+(5) Project Rationale and Statement of Significance (approximately 1500 words)
 
-- The reason for the project, how it aims to serve particular communities; to what extent, if any, needs are currently addressed by your institution or other institutions, what needs to be done; what your institution needs to accomplish these tasks.
-- Outline of proposed collection’s significance and research value (see evaluation criteria for details).
+* The reason for the project, how it aims to serve particular communities; to what extent, if any, needs are currently addressed by your institution or other institutions, what needs to be done; what your institution needs to accomplish these tasks.
+
+* Outline of proposed collection’s significance and research value (see evaluation criteria for details).
 
 6. Project Plan
 
-- Describe how the project will address ethical issues specific to the proposed collections as data work.
-- Draft Use model - should describe the positions, specific duties, services, and collaborations that will support computational use of collections as data by specific communities. Addresses how all of the above will be sustained post funding.  
+* Describe how the project will address ethical issues specific to the proposed collections as data work.
 
-- Draft Implementation model - should describe the workflows, infrastructure, code, positions, specific duties, and services that make it possible to create and provide access to collections as data. Addresses how all of the above will be sustained post funding. 
+* Draft Use model - should describe the positions, specific duties, services, and collaborations that will support computational use of collections as data by specific communities. Addresses how all of the above will be sustained post funding.  
 
-- An overview of the material to be made available as data. 
+* Draft Implementation model - should describe the workflows, infrastructure, code, positions, specific duties, and services that make it possible to create and provide access to collections as data. Addresses how all of the above will be sustained post funding. 
 
-- Plan for the care and continued use of the collection after the funded portion of the project ends. 
+* An overview of the material to be made available as data. 
+
+* Plan for the care and continued use of the collection after the funded portion of the project ends. 
 
 7. Timeline of completion
 
@@ -117,13 +119,13 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
 9. Statements of support
 
-- from the library director or administrative equivalent addressing what concrete measures they will take to make sure the project team has the resources it needs to complete the project - this may include proposed temporary revisions to job descriptions and the establishment of official working groups with representation at leadership council meetings
+* from the library director or administrative equivalent addressing what concrete measures they will take to make sure the project team has the resources it needs to complete the project - this may include proposed temporary revisions to job descriptions and the establishment of official working groups with representation at leadership council meetings
 
-- from the librarian, archivist, or museum professional with senior administrative responsibility addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks
+* from the librarian, archivist, or museum professional with senior administrative responsibility addressing how this project will benefit their institution and how library team members will be supported in accomplishing their tasks
 
-- from the disciplinary scholar addressing how the data produced by this project will support the advancement of research
+* from the disciplinary scholar addressing how the data produced by this project will support the advancement of research
 
-- from the project lead describing how the project will be organized
+* from the project lead describing how the project will be organized
 
 # Contact  
 
