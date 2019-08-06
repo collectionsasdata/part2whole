@@ -8,7 +8,7 @@ teaser: "Collections as Data Cohort 2 CFP Webinars"
 
 The Collections as Data: Part to Whole [**cohort 2 CFP**](https://collectionsasdata.github.io/part2whole/cfp/) webinar recording is now online! The CFP for cohort 2 will close on October 31. During this round $300,000 will be awarded to six teams. 
 
-[![cohort 2 cfp, webinar 1](images/cadcfp2_webinar.png)](https://youtu.be/l0h31oIcSfE?t=59)
+[![cohort 2 cfp, webinar 1](https://github.com/collectionsasdata/part2whole/blob/master/images/cadcfp2_webinar.png)](https://youtu.be/l0h31oIcSfE?t=59)
 
 On **August 19** we will have an [**open Q&A webinar**] (https://clirdlf.zoom.us/webinar/register/020a88f34967bf027510d14dfea9e911) focused on the cohort 2 CFP. 
 
