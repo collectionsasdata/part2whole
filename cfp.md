@@ -97,8 +97,8 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
 5. Project Rationale and Statement of Significance (approximately 1500 words)
 
-- The reason for the project, how it aims to serve particular communities; to what extent, if any, needs are currently addressed by your institution or other institutions, what needs to be done; what your institution needs to accomplish these tasks.
-- Outline of proposed collection’s significance and research value (see evaluation criteria for details).
+-- The reason for the project, how it aims to serve particular communities; to what extent, if any, needs are currently addressed by your institution or other institutions, what needs to be done; what your institution needs to accomplish these tasks.
+-- Outline of proposed collection’s significance and research value (see evaluation criteria for details).
 
 6. Project Plan
 
