@@ -1,0 +1,27 @@
+---
+layout: article
+title:  "🎥 Collections as Data Cohort 2 CFP Webinar 1 Recording 🎥"
+date:   2019-8-6 
+teaser: "Collections as Data Cohort 2 CFP Webinars"
+---
+---
+
+The Collections as Data: Part to Whole [**cohort 2 CFP**](https://collectionsasdata.github.io/part2whole/cfp/) webinar recording is now online! The CFP for cohort 2 will close on October 31. During this round $300,000 will be awarded to six teams. 
+
+[![cohort 2 cfp, webinar 1](images/cadcfp2_webinar.png)](https://youtu.be/l0h31oIcSfE?t=59)
+
+On **August 19** we will have an [**open Q&A webinar**] (https://clirdlf.zoom.us/webinar/register/020a88f34967bf027510d14dfea9e911) focused on the cohort 2 CFP. 
+
+In advance of the Q&A webinar we recommend watching the first webinar and reviewing the [Part to Whole grant narrative](https://github.com/collectionsasdata/part2whole/raw/master/cad_part2whole_narrative.pdf). We look forward to working with you and welcome any questions that you might have as you consider putting a proposal forward. Feel free to contact us individually or collectively using this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSdUpy6FxMSxpM814v03-uscvoFs6yhHASq9z3SVpNdkkqYA0w/viewform?usp=sf_link). 
+
+Thomas Padilla (University of Nevada Las Vegas)
+
+Hannah Scates Kettler (Iowa State University)
+
+Laurie Allen (University of Pennsylvania)
+
+Stewart Varner (University of Pennsylvania)
+
+### Code of Conduct
+
+All project activity, both in person and online, aims to foster a welcoming and inclusive experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, or political beliefs. Harassment of participants will not be tolerated in any form. Harassment includes any behavior that participants find intimidating, hostile or offensive. Participants asked to stop any harassing behavior are expected to comply immediately. Please contact any member of the project team if you have concerns.
