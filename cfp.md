@@ -54,18 +54,18 @@ We discourage proposals that ask for funds for contingent or temporary labor. St
 ### Evaluation Criteria
 
 1. Use model demonstrates: 
-- Innovative, cross-division and/or cross-departmental formation of positions and services that support the use of collections as data
-- Local sustainability
-- Ready potential for adaptability by other institutions
+* Innovative, cross-division and/or cross-departmental formation of positions and services that support the use of collections as data
+* Local sustainability
+* Ready potential for adaptability by other institutions
 
 2. Implementation model demonstrates:
-- Innovative, cross-division and/or cross-departmental formation of positions and services needed to implement collections as data
-- Local sustainability
-- Ready potential for adaptability by other institutions
+* Innovative, cross-division and/or cross-departmental formation of positions and services needed to implement collections as data
+* Local sustainability
+* Ready potential for adaptability by other institutions
 
 3. Proposed collections as data evidence:
-- significant research value
-- the perspectives of underrepresented and/or oppressed groups 
+* significant research value
+* the perspectives of underrepresented and/or oppressed groups 
 
 4. The proposed project demonstrates commitment to developing and implementing processes for addressing complex ethical issues inherent to engagement with cultural heritage data, and the needs of marginalized and underrepresented communities.
 
@@ -95,7 +95,7 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
 4. Summary of Project 
 
-(5) Project Rationale and Statement of Significance (approximately 1500 words)
+5. Project Rationale and Statement of Significance (approximately 1500 words)
 
 * The reason for the project, how it aims to serve particular communities; to what extent, if any, needs are currently addressed by your institution or other institutions, what needs to be done; what your institution needs to accomplish these tasks.
 
