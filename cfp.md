@@ -97,13 +97,12 @@ Proposals should follow this format and be submitted [**here**](https://docs.goo
 
 5. Project Rationale and Statement of Significance (approximately 1500 words)
 
--- The reason for the project, how it aims to serve particular communities; to what extent, if any, needs are currently addressed by your institution or other institutions, what needs to be done; what your institution needs to accomplish these tasks.
--- Outline of proposed collection’s significance and research value (see evaluation criteria for details).
+- The reason for the project, how it aims to serve particular communities; to what extent, if any, needs are currently addressed by your institution or other institutions, what needs to be done; what your institution needs to accomplish these tasks.
+- Outline of proposed collection’s significance and research value (see evaluation criteria for details).
 
 6. Project Plan
 
 - Describe how the project will address ethical issues specific to the proposed collections as data work.
-
 - Draft Use model - should describe the positions, specific duties, services, and collaborations that will support computational use of collections as data by specific communities. Addresses how all of the above will be sustained post funding.  
 
 - Draft Implementation model - should describe the workflows, infrastructure, code, positions, specific duties, and services that make it possible to create and provide access to collections as data. Addresses how all of the above will be sustained post funding. 
