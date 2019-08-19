@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "🎥 Collections as Data Cohort 2 CFP Webinar 1 Recording 🎥"
+title:  "🎥 Collections as Data Cohort 2 CFP Webinar Recordings 🎥"
 date:   2019-8-6 
 teaser: "Collections as Data Cohort 2 CFP Webinars"
 ---
