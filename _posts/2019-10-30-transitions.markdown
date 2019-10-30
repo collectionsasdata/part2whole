@@ -1,8 +1,8 @@
 ---
 layout: article
-title:  "Team Transitions"
+title:  "Transitions and Joinings"
 date:   2019-10-30 
-teaser: "Team Transitions"
+teaser: "Transitions and Joinings"
 ---
 ---
 
