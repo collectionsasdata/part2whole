@@ -6,7 +6,7 @@ teaser: "Collections as Data Forum 1 Recording Now Available"
 ---
 ---
 
-![viva los collections as data!](https://collectionsasdata.github.io/part2whole/cad_forum1.PNG "viva las collections as data!")
+![viva los collections as data!](https://github.com/collectionsasdata/part2whole/blob/master/cad_forum1.PNG "viva las collections as data!")
 
 On January 17, Collections as Data: Part to Whole [cohort 1 projects](https://collectionsasdata.github.io/part2whole/cohort1/) gathered at the University of Nevada Las Vegas for a [live-streamed forum](https://youtu.be/abpmH01IBH0?t=1021). Each team reported on challenges and opportunities, deliverables (models, partnership agreements, workflows, code, data, etc.), and planned activities post funding. In sum, these teams are actively demonstrating the viability of collections as data work across a range of organizational contexts. 
 
