@@ -14,7 +14,7 @@ Slides and presentation recording for each project are provided below.
  
 **Event opening** 
 
-([recording](https://youtu.be/abpmH01IBH0?t=1021))
+([recording](https://youtu.be/abpmH01IBH0?t=1021)
  
 **Collections as Data: Redefining Creators, Users, and Stewards of the Charles “Teenie” Harris Photographic Archival Collection** 
 
@@ -22,7 +22,7 @@ Carnegie Museum of Art
 
 [recording](https://youtu.be/abpmH01IBH0?t=1491)
 
-[slides](https://github.com/collectionsasdata/part2whole/blob/master/cmoa_summativeforum.pdf)) 
+[slides](https://github.com/collectionsasdata/part2whole/blob/master/cmoa_summativeforum.pdf) 
  
 **On the Books: Jim Crow and Algorithms of Resistance**
 
