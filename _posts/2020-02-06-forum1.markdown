@@ -14,7 +14,7 @@ Slides and presentation recording for each project are provided below.
  
 **Event opening** 
 
-([recording](https://youtu.be/abpmH01IBH0?t=1021)
+[recording](https://youtu.be/abpmH01IBH0?t=1021)
  
 **Collections as Data: Redefining Creators, Users, and Stewards of the Charles “Teenie” Harris Photographic Archival Collection** 
 
@@ -44,6 +44,7 @@ Patient Records as Data**
 University of Denver
 
 [recording](https://youtu.be/abpmH01IBH0?t=8062)
+
 [slides](https://docs.google.com/presentation/d/1wp-_-idXsplHHfx80uv54FPdMm4Jo0Q1PFkOCtqZSHk/edit?usp=sharing)
  
 **The Native American Educational Services College Digital Library Project** 
@@ -51,6 +52,7 @@ University of Denver
 Northwestern University
 
 [recording](https://youtu.be/abpmH01IBH0?t=10237)
+
 [slides](http://collectionsasdata.github.io/part2whole/naes_cad_forum.pdf)
  
 **From Collection Records to Data Layers: A Critical Experiment in Collaborative Practice** 
