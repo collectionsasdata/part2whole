@@ -9,7 +9,7 @@ title:  "Team"
 
 [**Stewart Varner**](https://stewartvarner.com/) is the Managing Director of the Price Lab for Digital Humanities at the University of Pennsylvania. Prior to Penn he served as the Digital Scholarship Librarian at UNC-Chapel Hill, and the Digital Scholarship Coordinator at Emory. He earned a Ph.D. in American Studies from Emory and his Masters of Library and Information Science from the University of North Texas.
 
-[**Yasmeen Shorish**](https://sites.lib.jmu.edu/yasmeen/) is the Data Services Coordinator and an Associate Professor at James Madison University. Her work focuses on data ethics and management, privacy, and representation. She is a member of the DLF Advisory Committee and the ARL Fellowship for Digital and Inclusive Excellence Advisory Group. She previously served as the Chair for the ACRL Research and Scholarly Environments Committee that produced the research agenda, [Open and Equitable Scholarly Communications](http://www.ala.org/acrl/publications/booksanddigitalresources/digital/oesc).
+[**Yasmeen Shorish**](https://sites.lib.jmu.edu/yasmeen/) is Head, Scholarly Communications and an Associate Professor at James Madison University. Her work focuses on data ethics and management, privacy, and representation. She is a member of the DLF Advisory Committee and the ARL Fellowship for Digital and Inclusive Excellence Advisory Group. She previously served as the Chair for the ACRL Research and Scholarly Environments Committee that produced the research agenda, [Open and Equitable Scholarly Communications](http://www.ala.org/acrl/publications/booksanddigitalresources/digital/oesc).
 
 ### Advisory Board
 
