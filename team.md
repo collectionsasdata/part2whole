@@ -19,7 +19,7 @@ title:  "Team"
 **Greg Eow**, President, Center for Research Libraries
 
 
-**Karen Estlund**, Associate Dean for Technology and Digital Strategies, Penn State University 
+**Karen Estlund**, Dean of Libraries, Colorado State University 
 
 
 **Bergis Jules**, Director of Equity Initiatives, SHIFT
@@ -28,7 +28,7 @@ title:  "Team"
 **Trevor Muñoz**, Interim Director of the Maryland Institute for Technology in the Humanities (MITH), Assistant Dean for Digital Humanities Research at the University of Maryland Libraries
 
 
-**Barbara Rockenbach**, Associate University Librarian for Research and Learning, Columbia University
+**Barbara Rockenbach**, University Librarian, Yale University
 
 ### Past Members
 
