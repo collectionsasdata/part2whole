@@ -12,8 +12,9 @@ Are you interested in working with collections as data? While supply lasts, you 
 
 The logo has an owl, a book, and multicolored abstraction of data - what more could there be? Increasingly diverse global efforts in this space are tough to represent visually but we hope we landed on something that resonates.   
 
-All logo design files are included [here](https://github.com/collectionsasdata/part2whole/raw/master/collectionsasdata_logo.zip).   
+All logo design files are included [here](https://github.com/collectionsasdata/part2whole/raw/master/collectionsasdata_logo.zip)(CC BY-NC 4.0).   
 
+===
 
 Thomas Padilla (University of Nevada Las Vegas)
 
