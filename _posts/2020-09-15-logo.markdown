@@ -1,0 +1,28 @@
+---
+layout: article
+title:  "🎨 collections as data, a logo! 🎨"
+date:   2020-09-15 
+teaser: "collections as data, a logo!"
+---
+---
+
+![](https://github.com/collectionsasdata/part2whole/raw/master/_posts/IMG_0048.jpg "viva las collections as data!")
+
+Are you interested in working with collections as data? While supply lasts, you can make a request for a hex laptop sticker to be mailed to you, at no cost, [here](https://docs.google.com/forms/d/e/1FAIpQLSfSXHv0fKXKghr0WOInoIQI_qdTRao0JPsNy56jo45qUJvaYw/viewform?usp=sf_link).  
+
+The logo has an owl, a book, and multicolored abstraction of data - what more could there be? Increasingly diverse global efforts in this space are tough to represent visually but we hope we landed on something that resonates.   
+
+All logo design files are included [here](https://github.com/collectionsasdata/part2whole/raw/master/collectionsasdata_logo.zip).   
+
+
+Thomas Padilla (University of Nevada Las Vegas)
+
+Hannah Scates Kettler (Iowa State University)
+
+Stewart Varner (University of Pennsylvania)
+
+Yasmeen Shorish (James Madison University)
+
+### Code of Conduct
+
+All project activity, both in person and online, aims to foster a welcoming and inclusive experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, or political beliefs. Harassment of participants will not be tolerated in any form. Harassment includes any behavior that participants find intimidating, hostile or offensive. Participants asked to stop any harassing behavior are expected to comply immediately. Please contact any member of the project team if you have concerns.
