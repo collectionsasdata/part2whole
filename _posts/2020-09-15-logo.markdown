@@ -6,7 +6,7 @@ teaser: "collections as data, a logo!"
 ---
 ---
 
-![](https://github.com/collectionsasdata/part2whole/raw/master/_posts/IMG_0048.jpg "viva las collections as data!")
+![](https://github.com/collectionsasdata/part2whole/raw/master/_posts/cad_logo_matte.png "")
 
 Are you interested in working with collections as data? While supply lasts, you can make a request for a hex laptop sticker to be mailed to you, at no cost, [here](https://docs.google.com/forms/d/e/1FAIpQLSfSXHv0fKXKghr0WOInoIQI_qdTRao0JPsNy56jo45qUJvaYw/viewform?usp=sf_link).  
 
