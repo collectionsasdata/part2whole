@@ -8,7 +8,7 @@ teaser: "collections as data, a logo!"
 
 ![](https://github.com/collectionsasdata/part2whole/raw/master/_posts/cad_logo_matte.png "matte logo")
 
-In the interest of promoting common cause with *all* collections as data work, a logo now exists!
+In the interest of promoting common cause with ***all*** collections as data work, a logo now exists!
 
 Increasingly diverse efforts in this space are tough to represent visually but hopefully this resonates.   
 
