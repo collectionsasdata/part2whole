@@ -6,13 +6,15 @@ teaser: "Cohort 1 projects complete"
 ---
 ---
 
+As an extraordinarily difficult year comes to a close, it is important to celebrate where we can. 
+
 We are proud to share Collections as Data: Part to Whole Cohort 1 [**deliverables**](https://osf.io/r9n3s/wiki/home/). Cohort 1 spans the University of North Carolina Chapel Hill, Carnegie Museum of Art, University of Denver, Weeksville Heritage Center, University of Pittsburgh, and Northwestern University. Final reports present lessons learned and links to documentation, data, code, and more. We could not have imagined a better set of compassionate, brilliant, and inspiring people to work with. In difficult times, they have demonstrated unwavering commitments to each other and their communities. 
 
-Our intention is that these six teams, and the [**six teams that follow them**](https://collectionsasdata.github.io/part2whole/cohortone/), will define and develop a range of approaches that support collections as data implementation and use. We believe that the viability of collections as data work depends on the development of approaches that map to diverse institutional contexts, resource assumptions, and community commitments. There is no singular collections as data model and we feel that cultivating diversity in approach continues to show promise. 
+Our intention is that these six teams, and the [**six teams that follow them**](https://collectionsasdata.github.io/part2whole/cohortone/), will define and develop a range of approaches that support collections as data implementation *and* use. We believe that the viability of collections as data work depends on the development of approaches that map to diverse institutional contexts, resource assumptions, and community commitments. There is no singular collections as data model and we feel that cultivating diversity in approach continues to show promise. 
 
-Cohort 1 has dedicated critical thought and work to the potential of collections as data. 
+Cohort 1 has dedicated critical thought *and* work to the potential of collections as data. 
 
-We thank them for this spark in the dark. 
+We thank them for this 💫 spark in the dark 💫. 
 
 Thomas, Hannah, Stewart, Yasmeen 
 
