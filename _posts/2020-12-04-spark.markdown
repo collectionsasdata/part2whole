@@ -19,13 +19,6 @@ Thomas, Hannah, Stewart, Yasmeen
 
 ===
 
-**Collections as Data: Redefining Creators, Users, and Stewards of the Charles “Teenie” Harris Photographic Archival Collection**
-
-Carnegie Museum of Art
-
-Dominique Luster, Charlene Foggie-Barnett, Ed Motznik, Samantha Ticknor
-
-* [**final report](https://osf.io/d9fst/)
 
 **On the Books: Jim Crow and Algorithms of Resistance**
 
@@ -43,6 +36,14 @@ University of Denver
 Kim Pham, Kevin Clair, Jack Maness, Jeanne Abrams, Fernando Reyes, Jeff Rynhart, Alice Tarrant
 
 * [**final report**](https://osf.io/fea7m/)
+
+**Collections as Data: Redefining Creators, Users, and Stewards of the Charles “Teenie” Harris Photographic Archival Collection**
+
+Carnegie Museum of Art
+
+Dominique Luster, Charlene Foggie-Barnett, Ed Motznik, Samantha Ticknor
+
+* [**final report**](https://osf.io/d9fst/)
 
 **Linking Lost Jazz Shrines**
 
