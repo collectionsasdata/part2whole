@@ -5,7 +5,7 @@ date:   2020-12-04
 teaser: "Cohort 1 projects complete"
 ---
 ---
-As we move through a difficult year, it is important to highlight that there are things to celebrate. 
+As we move through a difficult year, it is important to remember to celebrate. 
 
 We are proud to share Collections as Data: Part to Whole Cohort 1 deliverables. Cohort 1 includes teams from the University of North Carolina Chapel Hill, Carnegie Museum of Art, University of Denver, Weeksville Heritage Center, University of Pittsburgh, and Northwestern University. Final reports present lessons learned and links to code, data, documentation, and more. We could not have imagined a better set of compassionate, brilliant, and inspiring people to work with for this first cohort. In difficult times, they have demonstrated unwavering commitments to each other and their communities. 
 
