@@ -7,7 +7,7 @@ teaser: "Cohort 1 projects complete"
 ---
 As we move through a difficult year, it is important to remember to celebrate. 
 
-We are proud to share Collections as Data: Part to Whole Cohort 1 deliverables. Cohort 1 includes teams from the University of North Carolina Chapel Hill, Carnegie Museum of Art, University of Denver, Weeksville Heritage Center, University of Pittsburgh, and Northwestern University. Final reports present lessons learned and links to code, data, documentation, and more. We could not have imagined a better set of compassionate, brilliant, and inspiring people to work with for this first cohort. In difficult times, they have demonstrated unwavering commitments to each other and their communities. 
+We are proud to share Collections as Data: Part to Whole Cohort 1 [**deliverables**](https://osf.io/r9n3s/wiki/home/). Cohort 1 includes teams from the University of North Carolina Chapel Hill, Carnegie Museum of Art, University of Denver, Weeksville Heritage Center, University of Pittsburgh, and Northwestern University. Final reports present lessons learned and links to code, data, documentation, and more. We could not have imagined a better set of compassionate, brilliant, and inspiring people to work with for this first cohort. In difficult times, they have demonstrated unwavering commitments to each other and their communities. 
 
 Our intention is that these six teams, and the six teams that follow them, will define and develop a range of approaches that support collections as data implementation and use. We believe that the viability of collections as data work depends on the development of approaches that map to diverse institutional contexts, resource assumptions, and community commitments. There is no singular collections as data model and we feel that cultivating diversity in approach continues to show promise. 
 
@@ -25,7 +25,7 @@ Carnegie Museum of Art
 
 Dominique Luster, Charlene Foggie-Barnett, Ed Motznik, Samantha Ticknor
 
-* final report
+* [**final report](https://osf.io/d9fst/)
 
 **On the Books: Jim Crow and Algorithms of Resistance**
 
@@ -33,16 +33,8 @@ University of North Carolina Chapel Hill
 
 María R. Estorino, Amanda Henley, Matt Jansen, Lorin Bruckner, Sarah Carrier, William Sturkey
 
-* final report
-* white paper
-
-**Linking Lost Jazz Shrines**
-
-Weeksville Heritage Center
-
-Obden Mondésir, Zakiya Collier, Sarah Adams, M. Cristina Pattuelli
-
-* final report
+* [**final report**](https://osf.io/2ep3f/)
+* [**white paper**](https://cdr.lib.unc.edu/concern/scholarly_works/fq978105r?locale=en)
 
 **Uncovering Health History: Transcribing and Publishing Early Twentieth-Century Tuberculosis Patient Records as Data**
 
@@ -50,7 +42,15 @@ University of Denver
 
 Kim Pham, Kevin Clair, Jack Maness, Jeanne Abrams, Fernando Reyes, Jeff Rynhart, Alice Tarrant
 
-* final report
+* [**final report**](https://osf.io/fea7m/)
+
+**Linking Lost Jazz Shrines**
+
+Weeksville Heritage Center
+
+Obden Mondésir, Zakiya Collier, Sarah Adams, M. Cristina Pattuelli
+
+* [**final report**](https://osf.io/8kydr/)
 
 **The Native American Educational Services College Digital Library Project**
 
@@ -58,8 +58,8 @@ Northwestern University
 
 Josh Honn, Kelly Wisecup, John Dorr, Dorene Wiese, Melanie Cloud, Allison Conner
 
-* final report
-* white paper
+* [**final report**](https://osf.io/2ruxt/)
+* [**white paper**](https://osf.io/h9mc4/)
 
 **From Collection Records to Data Layers: A Critical Experiment in Collaborative Practice**
 
@@ -67,7 +67,7 @@ University of Pittsburgh
 
 Tyrica Terry Kapral, Aaron Brenner, Matthew J. Lavin, Gesina Philips
 
-* final report
+* [**final report**](https://osf.io/djgpz/)
 
 
 
