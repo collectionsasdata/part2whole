@@ -10,7 +10,7 @@ teaser: "Cohort 1 projects complete"
 
 Our intention is that these six teams, and the [**six teams that follow them**](https://collectionsasdata.github.io/part2whole/cohortone/), will define and develop a range of approaches that support collections as data implementation *and* use. We believe that the viability of collections as data work depends on the development of approaches that map to diverse institutional contexts, resource assumptions, and community commitments. There is no singular collections as data model and we feel that cultivating diversity in approach continues to show promise. 
 
-Cohort 1 has dedicated critical thought *and* work to the potential of collections as data. 
+Cohort 1 has dedicated critical thought and work to the potential of collections as data. 
 
 We thank them for this 💫 spark in the dark 💫. 
 
