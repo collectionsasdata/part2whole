@@ -6,6 +6,8 @@ title:  "Resources"
 
 #### Collections as Data: Part to Whole
 
+[Cohort 1 Final Deliverables](https://osf.io/r9n3s/wiki/home/)
+
 [Cohort 1 Call for Proposals](https://collectionsasdata.github.io/part2whole/cfp/)
 
 [Grant Narrative](https://github.com/collectionsasdata/part2whole/raw/master/cad_part2whole_narrative.pdf)
