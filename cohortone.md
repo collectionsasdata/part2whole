@@ -11,7 +11,7 @@ title:  "Cohort Projects"
 
 Louisiana State University
 
-Scott Ziegler, Gina Costello, Leah Powell, Elizabeth Joan Kelly
+Sophia Ziegler, Gina Costello, Leah Powell, Elizabeth Joan Kelly
 
 *The Louisiana Digital Library (LDL) is a state-wide resource for sharing digital heritage content from public libraries, academic libraries, museums, and archives. Our project enables librarians, archivists, and curators from across Louisiana to gather as a community of practice and explore the policy, practice, and ethics of reconceptualizing the LDL as data. By producing a series of sample collections as data, this project will foster community around a state-wide goal of building computationally meaningful collections that are ethically-grounded and culturally relevant.*
 
