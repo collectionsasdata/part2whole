@@ -13,7 +13,7 @@ Over a period of three years, *Part to Whole* [**is funding and programmatically
 
 # Contact  
 
-Thomas Padilla, <thomas.padilla@unlv.edu>
+Thomas Padilla, <tpadilla@crl.edu>
 
 # Code of Conduct
 
