@@ -13,7 +13,7 @@ Over a period of three years, *Part to Whole* [**is funding and programmatically
 
 # Contact  
 
-Thomas Padilla, <tpadilla@crl.edu>
+Thomas Padilla, <tpadilla@archive.org>
 
 # Code of Conduct
 
