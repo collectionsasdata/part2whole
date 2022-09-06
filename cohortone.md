@@ -4,7 +4,7 @@ title:  "Cohort Projects"
 ---
 ---
 
-**✌️ Cohort 2 (1/2020 - 4/2021)✌️**
+**✌️ Cohort 2 (1/2020 - 4/2022)✌️**
 
 
 **...And 25 of our closest friends: The Louisiana Digital Library as Community-Focused Data**
