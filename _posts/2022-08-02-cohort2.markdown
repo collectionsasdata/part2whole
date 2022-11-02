@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "💫 Spark in the Dark 💫"
+title:  "💫 Spark in the Dark II 💫"
 date:   2022-08-02 
 teaser: "Cohort 2 projects complete"
 ---
