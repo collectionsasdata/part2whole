@@ -1,0 +1,79 @@
+---
+layout: article
+title:  "💫 Spark in the Dark 💫"
+date:   2022-08-02 
+teaser: "Cohort 2 projects complete"
+---
+---
+
+*Collections as Data: Part to Whole* Cohort 2 projects are complete and all [**deliverables**](https://osf.io/r9n3s/wiki/home/) are now available. Cohort 1 spans the University of North Carolina Chapel Hill, Carnegie Museum of Art, University of Denver, Weeksville Heritage Center, University of Pittsburgh, and Northwestern University. Final reports present lessons learned and links to documentation, data, code, and more. We could not have imagined a better set of compassionate, brilliant, and inspiring people to work with. In challenging times, they have demonstrated unwavering commitments to each other and their communities. 
+
+Combined with the six teams that came before them, it our hope that the collective work articulates a range of approaches that support collections as data implementation *and* use. We believe that the viability of collections as data work depends on the development of approaches that map to diverse institutional contexts, resource assumptions, and community commitments. There is no singular collections as data model and we feel that cultivating diversity in approach continues to show promise. 
+
+Our deepest thanks to cohort 2!
+
+Thomas, Hannah, Stewart, Yasmeen 
+
+===
+
+
+**…And 25 of our closest friends: The Louisiana Digital Library as Community-Focused Data**
+
+Louisiana State University 
+
+Sophie Ziegler, Gina Costello, Leah Powell, Elizabeth Joan Kelly
+
+* [**final report**](https://osf.io/m7xzh/)
+* [**sample tutorials**](https://louisianadigitallibrary.org/LDLasData/sample-tutorials)
+* [**speaker series**](https://www.youtube.com/playlist?list=PLCxbFe0W17cPkkJ0MbnN2uA2QlLT_TPA0)
+
+**Using Newspapers as Data for Collaborative Pedagogy: A Multidisciplinary Interrogation of the Borderlands in Undergraduate Classrooms**
+
+University of Arizona
+
+Mary Feeney, Sarah Shreeves, Anita Huizar-Hernández
+
+* [**final report**](https://osf.io/sb9dw/)
+* [**project page**](https://libguides.library.arizona.edu/newspapers-as-data)
+* [**subsequently funded project](http://borderlands.digitalscholarship.library.arizona.edu/)
+
+**Images as Data: Processing, Exploration, and Discovery at Scale**
+
+Harvard University and University of Richmond
+
+Carol Chiodo, Taylor Arnold, Lauren Tilton, Ardys Kozbial
+
+* [**final report**](https://osf.io/q5vuh/)
+
+**LGBTQ+ Audio Archive Mining Project**
+
+University of Wisconsin Milwaukee
+
+Ann Hanlon, Dan Siercks, Marcy Bidney, Cary Costello
+
+* [**final report**](https://osf.io/pjes7/)
+* [**project page**](https://uwm.edu/libraries/digital-collections/lgbtq-av/)
+
+**Surfacing hidden water data: Water, people, displacement in Southern California**
+
+Claremont Colleges
+
+Jeanine Finn, Jessica Dávila Greene, Char Miller, Catalina Lopez
+
+* [**final report**](https://osf.io/jqf6d/)
+
+**dLOC as Data: A Thematic Approach to Caribbean Newspapers**
+
+Florida International University and University of Florida
+
+Miguel Asencio, Jamie Rogers, Perry Collins, Hadassah St. Hubert
+
+* [**final report**](https://osf.io/v5aeg/)
+
+
+
+
+
+### Code of Conduct
+
+All project activity, both in person and online, aims to foster a welcoming and inclusive experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, or political beliefs. Harassment of participants will not be tolerated in any form. Harassment includes any behavior that participants find intimidating, hostile or offensive. Participants asked to stop any harassing behavior are expected to comply immediately. Please contact any member of the project team if you have concerns.
