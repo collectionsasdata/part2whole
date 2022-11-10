@@ -6,7 +6,7 @@ teaser: "Call for Nominations - Collections as Data: State of the Field and Futu
 ---
 ---
 
-##About
+## About
 
 Building upon a diverse range of collections as data [experimentation](https://collectionsasdata.github.io/part2whole/), the time has come to assess the state of the field on an international level - our challenges, our aspirations, and prospective ways of working together. In order to chart future directions for our community, Collections as Data: Part to Whole will hold a collaborative international working event in Vancouver, Canada from April 25-26, 2023. **Collections as Data: State of the Field and Future Directions** will inform the production of a white paper and subsequent collections as data initiatives.
 
@@ -14,7 +14,7 @@ Libraries, archives, and museums around the world increasingly coalesce around t
 
 The scale of collections as data work - both explicitly identified and complementary in nature - is international. In the United States, successive efforts manifest in projects like [Always Already Computational: Collections as Data](https://osf.io/mx6uk/wiki/home/), [Collections as Data: Part to Whole](https://osf.io/r9n3s/wiki/home/), and the Library of Congress’ [Computing Cultural Heritage in the Cloud](https://labs.loc.gov/work/experiments/cchc/) have seeded an increasingly robust community. Collections as Data: Part to Whole sparked no less than 12 institutional experiments in collections as data implementation, spanning large public and private R1 universities, regional universities, a historical society, an art museum, and a statewide digital library. Running parallel to these efforts, collections as data has shown up in [institutional](https://library.brown.edu/hay/collectionpolicy/integrative-themes-in-sciences/) as well as  state-wide strategy, and in the hiring of [dedicated positions](https://digitalhumanitiesnow.org/2019/04/job-manager-of-digital-collections-as-data-johns-hopkins-university/). On an international level, collections as data engagement is evidenced in [national initiatives](https://www.kbr.be/en/projects/data-kbr-be/), [state strategy](https://www.slq.qld.gov.au/digital-strategy), [conferences](https://www.slq.qld.gov.au/makingmeaning), [national library implementation](https://data.nls.uk/), and multi-year, collaborative collections as data [professional development offerings](https://dhtraining.org/hilt/course/collections-as-data-2018/). 
 
-##Nominations##
+## Nominations
 
 This is the time to come together as a community to develop paths forward for the field. In order to maximize a diverse representation of perspectives at *Collections as Data: International State of Field and Future Directions*, we are opening a call for nominations / self-nominations for individuals to attend and contribute to this event. Individuals at all levels of experience - **from all regions of the world** - are highly encouraged to apply. Travel, lodging, and subsistence costs for selected attendees will be supported by the Mellon Foundation.  
 
