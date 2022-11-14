@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "🌍 Call for Participation - Collections as Data: State of the Field and Future Directions 🌏"
-date:   2022-11-14 
+date:   2022-14-11 
 teaser: "Call for Participation - Collections as Data: State of the Field and Future Directions"
 ---
 ---
