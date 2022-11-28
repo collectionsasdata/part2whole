@@ -11,7 +11,7 @@ title:  "Part to Whole"
 
 Over a period of three years, Collections as Data: Part to Whole [**funded and programmatically supported**](https://collectionsasdata.github.io/part2whole/cfp/) two cohorts. Cohorts were comprised of project teams jointly led by librarians and disciplinary scholars. Project teams developed models that support collections as data implementation and holistic reconceptualization of services and roles that support scholarly use. Collections as data produced by project activity exhibit high research value, demonstrate the capacity to serve underrepresented communities, represent a diversity of content types, languages, and descriptive practices, and arise from a range of institutional contexts. 
 
-*Collections as Data: Part to Whole* concludes with an international summit, **Collections as Data: State of the Field and Future Directions**. Held from April 25-26, 2023 at Internet Archive Canada, the summit will provide an opportunity to assess the state of the field on an international level. *Collections as Data: State of the Field and Future Directions* will directly inform the production of a white paper and subsequent initiatives that drive future community work. 
+*Collections as Data: Part to Whole* concludes with an international summit, [**Collections as Data: State of the Field and Future Directions**](https://collectionsasdata.github.io/part2whole/future/). Held from April 25-26, 2023 at Internet Archive Canada, the summit will provide an opportunity to assess the state of the field on an international level. *Collections as Data: State of the Field and Future Directions* will directly inform the production of a white paper and subsequent initiatives that drive future community work. 
 
 
 
