@@ -80,4 +80,8 @@ We are excited to learn from the following participants at this event:
 
 ## Asynchronous 
 
-Following the in-person event, from May to June 2023, we will release a draft version of the white paper resulting from **Collections as Data: State of the Field and Future Directions**. We will also release a CFP intended to garner additional position statements focused on informing future directions of collections as data work. 
+Following the in-person event, from May to June 2023, we will release a draft version of the **Collections as Data: State of the Field and Future Directions** white paper and an updated version of the [Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/) for contributions from the broader community. 
+
+## Incorporation and Sharing
+
+In July the project team will incorporate all community inputs and openly release the final outputs in August 2023. 
