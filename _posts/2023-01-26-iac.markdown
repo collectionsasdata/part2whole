@@ -24,7 +24,7 @@ We are excited to learn from the following participants at this event:
 - Chela Scott Weber,	OCLC Research
 - Clemens Neudecker,	State Library of Berlin
 - Daniel Van Strien, HuggingFace
-- David Igullden, Kew Gardens
+- David Iggulden, Kew Gardens
 - Devin Becker, University of Idaho 
 - Dorothy Berry, Smithsonian, National Museum for African American History
 - Duncan Loxton, University of Technology Sydney
