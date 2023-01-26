@@ -8,7 +8,7 @@ teaser: "Paths to Participation"
 
 ## in-person participation
 
-From April 25-26 practitioners and disciplinary researchers will gather in Vancouver, Canada for **Collections as Data: State of the Field and Future Directions** to assess the state of the field on an international level - challenges, aspirations, and prospective ways of working together. This work will produce position statements, a white paper, and if all goes well, subsequent, collaborative collections as data efforts. 
+From April 25-26 practitioners and disciplinary researchers will gather in Vancouver, Canada for **Collections as Data: State of the Field and Future Directions** to assess the state of the field on an international level - challenges, aspirations, and prospective ways of working together. This work will produce position statements, a white paper, an update to the Santa Barbara Statement on Collections as Data, and if all goes well, subsequent, collaborative collections as data efforts. 
 
 We are excited to learn from the following participants at this event:
 
@@ -82,4 +82,4 @@ In May, the project team will release a draft version of the *Collections as Dat
 
 ## Incorporation and Sharing
 
-In June the project team will incorporate all community inputs, have the result translated in multiple languages, and openly release the final deliverables in August 2023. 
+In June the project team will incorporate all community inputs, have the final deliverables translated in multiple languages, to be openly released in August 2023. 
