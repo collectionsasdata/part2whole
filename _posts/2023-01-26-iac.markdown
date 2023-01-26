@@ -6,9 +6,7 @@ teaser: "Paths to Participation"
 ---
 ---
 
-**Collections as Data: Part to Whole** and the pre-cursor effort **Always Already Computational: Collections as Data** are committed to including as many perspectives as possible in the development of collections as data community. Accordingly, we aim to foster multiple paths to participation in Collections as Data: State of the Field and Future Directions.  
-
-## In-person
+## in-person participation
 
 From April 25-26 practitioners and disciplinary researchers will gather in Vancouver, Canada for **Collections as Data: State of the Field and Future Directions** to assess the state of the field on an international level - challenges, aspirations, and prospective ways of working together. This work will produce position statements, a white paper, and if all goes well, subsequent, collaborative collections as data efforts. 
 
@@ -38,7 +36,7 @@ We are excited to learn from the following participants at this event:
 - Ian Milligan, University of Waterloo
 - James Lee, University of Cincinnati
 - Jefferson Bailey, Internet Archive
-- Jen Riley, McGill University 
+- Jenn Riley, McGill University 
 - Julia Corrin, Carnegie Mellon University
 - Kari Jordan, The Carpentries 
 - Kayla Abner, University of Delaware
@@ -78,10 +76,10 @@ We are excited to learn from the following participants at this event:
 - Yvonne Ng, WITNESS
 - Patricia Hswe, Mellon Foundation 
 
-## Asynchronous 
+## asynchronous participation
 
-Following the in-person event, from May to June 2023, we will release a draft version of the **Collections as Data: State of the Field and Future Directions** white paper and an updated version of the [Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/) for contributions from the broader community. 
+In May, the project team will release a draft version of the *Collections as Data: State of the Field and Future Directions* white paper and a draft updated version of the [*Santa Barbara Statement on Collections as Data*](https://collectionsasdata.github.io/statement/) for contributions from the broader community. We look forward to engaging a broad group of partners on these final deliverables.  
 
 ## Incorporation and Sharing
 
-In July the project team will incorporate all community inputs and openly release the final outputs in August 2023. 
+In July the project team will incorporate all community inputs and openly release the final deliverables in July 2023. 
