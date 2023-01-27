@@ -6,7 +6,7 @@ teaser: "Paths to Participation"
 ---
 ---
 
-## in-person participation
+## in-person
 
 From April 25-26 practitioners and disciplinary researchers will gather in Vancouver, Canada for **Collections as Data: State of the Field and Future Directions** to assess the state of the field on an international level - challenges, aspirations, and prospective ways of working together. This work will produce position statements, a white paper, an update to the Santa Barbara Statement on Collections as Data, and if all goes well, subsequent, collaborative collections as data efforts. 
 
@@ -76,10 +76,10 @@ We are excited to learn from the following participants at this event:
 - Yvonne Ng, WITNESS
 - Patricia Hswe, Mellon Foundation 
 
-## asynchronous participation
+## asynchronous
 
 In May, the project team will release a draft version of the *Collections as Data: State of the Field and Future Directions* white paper and a draft updated version of the [*Santa Barbara Statement on Collections as Data*](https://collectionsasdata.github.io/statement/) for contributions from the broader community. We look forward to engaging a broad group of partners on these final deliverables.  
 
-## Incorporation and Sharing
+## incorporation and sharing
 
 In June the project team will incorporate all community inputs, have the final deliverables translated in multiple languages, to be openly released in August 2023. 
