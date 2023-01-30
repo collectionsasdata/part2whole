@@ -23,7 +23,7 @@ We are excited to learn from the following participants at this event:
 - Bryan Briones,	Atlanta University Center Data Science Initiative
 - Chela Scott Weber,	OCLC Research
 - Clemens Neudecker,	State Library of Berlin
-- Daniel Van Strien, HuggingFace
+- Daniel Van Strien, Hugging Face
 - David Iggulden, Kew Gardens
 - Devin Becker, University of Idaho 
 - Dorothy Berry, Smithsonian, National Museum for African American History
