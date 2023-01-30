@@ -8,7 +8,7 @@ teaser: "Paths to Participation"
 
 ## in-person
 
-From April 25-26 practitioners and disciplinary researchers will gather in Vancouver, Canada for **Collections as Data: State of the Field and Future Directions** to assess the state of the field on an international level - challenges, aspirations, and prospective ways of working together. This work will produce position statements, a white paper, an update to the Santa Barbara Statement on Collections as Data, and if all goes well, subsequent, collaborative collections as data efforts. 
+From April 25-26 practitioners and disciplinary researchers will gather in Vancouver, Canada at Internet Archive Canada for **Collections as Data: State of the Field and Future Directions** to assess the state of the field on an international level - challenges, aspirations, and prospective ways of working together. This work will produce position statements, a white paper, an update to the Santa Barbara Statement on Collections as Data, and if all goes well, subsequent, collaborative collections as data efforts. 
 
 We are excited to learn from the following participants at this event:
 
@@ -63,7 +63,6 @@ We are excited to learn from the following participants at this event:
 - Paul Jason Perez, University of the Philippines Diliman
 - Rebecca Dikow, Smithsonian, Data Science Lab 
 - Sally Chambers, DARIAH
-- Sarah Shreeves, University of Arizona
 - Saskia Scheltjens, Rijksmuseum
 - Sonia Ranade, National Archives UK
 - Steven Claeyssens, Koninklijke Bibliotheek
