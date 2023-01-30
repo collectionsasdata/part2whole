@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "🧭 Paths to Participation - Collections as Data: State of the Field and Future Directions 🧭"
-date:   2023-01-29 
+date:   2023-01-30 
 teaser: "Paths to Participation"
 ---
 ---
@@ -78,8 +78,8 @@ We are excited to learn from the following participants at this event:
 
 ## asynchronous
 
-In May, the project team will release a draft version of the *Collections as Data: State of the Field and Future Directions* white paper and a draft updated version of the [*Santa Barbara Statement on Collections as Data*](https://collectionsasdata.github.io/statement/) for contributions from the broader community. We look forward to engaging a broad group of partners on these final deliverables.  
+In May, the project team will release a draft version of the *Collections as Data: State of the Field and Future Directions* white paper and an updated version of the [*Santa Barbara Statement on Collections as Data*](https://collectionsasdata.github.io/statement/) for an open comment period. We look forward to engaging a broad group of partners on this collective work.  
 
-## incorporation and sharing
+## future steps!
 
-In June the project team will incorporate all community inputs, have the final deliverables translated in multiple languages, to be openly released in August 2023. 
+In June the project team will incorporate all community inputs, have the final deliverables translated in multiple languages, to be **openly released in August 2023**. 
