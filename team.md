@@ -25,7 +25,7 @@ title:  "Team"
 **Bergis Jules**, Director of Equity Initiatives, SHIFT
 
 
-**Trevor Muñoz**, Interim Director of the Maryland Institute for Technology in the Humanities (MITH), Assistant Dean for Digital Humanities Research at the University of Maryland Libraries
+**Trevor Muñoz**, Director of the Maryland Institute for Technology in the Humanities (MITH), Assistant Dean for Digital Humanities Research at the University of Maryland Libraries
 
 
 **Barbara Rockenbach**, University Librarian, Yale University
