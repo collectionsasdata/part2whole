@@ -53,7 +53,6 @@ We are excited to learn from the following participants at this event:
 - Megan Ferriter, Library of Congress
 - Melanie Walsh, University of Washington
 - Mia Ridge, British Library 
-- Michael Haugh, University of Queensland
 - Michelle Caswell, University of California Los Angeles
 - Miguel Varela Escobar, National University of Singapore
 - Mikala Narlock, Data Curation Network 
@@ -62,6 +61,7 @@ We are excited to learn from the following participants at this event:
 - Patricia Pena, Universidad de Chile
 - Paul Jason Perez, University of the Philippines Diliman
 - Rebecca Dikow, Smithsonian, Data Science Lab 
+- Robert McLellan, University of Queensland
 - Sally Chambers, DARIAH
 - Saskia Scheltjens, Rijksmuseum
 - Sonia Ranade, National Archives UK
