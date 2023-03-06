@@ -16,11 +16,11 @@ We are excited to learn from the following participants at this event:
 - Alexis Tindall, University of Adelaide
 - Amanda Henley, University of North Carolina Chapel Hill
 - Amanda Whitmire,	Stanford University 
-- Amy Buckland,	Library and Archives Canada
 - Andrew Cox,	University of Sheffield
 - Barbara Bordalejo,	University of Saskatchewan
 - Beth Knazook,	Digital Repository Ireland
 - Bryan Briones,	Atlanta University Center Data Science Initiative
+- Caitlin Horrall, Library and Archives Canada
 - Chela Scott Weber,	OCLC Research
 - Clemens Neudecker,	State Library of Berlin
 - Daniel Van Strien, Hugging Face
