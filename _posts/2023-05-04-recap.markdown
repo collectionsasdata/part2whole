@@ -26,28 +26,36 @@ In preparation for the summit, participants submitted position statements to est
 
 A sampling of position statement titles included below:
 
-Against Archival Collections as Data
+*Against Archival Collections as Data*
+
 Michelle Caswell, UCLA
 
-Archaeological collections and the ethical challenges in the use of digital repositories
+*Archaeological collections and the ethical challenges in the use of digital repositories*
+
 Mercedes Okumura, Laboratory for Human Evolutionary Studies, University of Sao Paulo, Brazil	
 
-Bridging academia’s preservation and documentation of collections and communities at large
+*Bridging academia’s preservation and documentation of collections and communities at large*
+
 Gabriela Baeza Ventura, US Latino Digital Humanities Center, University of Houston
 
-Collections as Training Data?
+*Collections as Training Data?*
+
 Daniel van Strien, Hugging Face
 
-Extracting Black Humanity, Blurring Collections into Data	
+*Extracting Black Humanity, Blurring Collections into Data*	
+
 Dorothy Berry, Digital Curator, National Museum of African American History and Culture
 
-Future Directions
+*Future Directions*
+
 Gimena del Rio Riande, University of Buenos Aires
 
-The neverending story: law and ethics challenges to data-driven scholarship
+*The neverending story: law and ethics challenges to data-driven scholarship*
+
 Timothy Vollmer, UC Berkeley Library
 
-Sovereignty as Data? Indigenous Knowledges and Library Collections
+*Sovereignty as Data? Indigenous Knowledges and Library Collections*
+
 Kayla Lar-Son, Xwi7xwa Library, University of British Columbia
 
 ## Next Steps
