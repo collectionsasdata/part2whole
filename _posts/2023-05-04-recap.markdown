@@ -14,9 +14,9 @@ From April 25-26, 60 GLAM (Galleries, Libraries, Archives, Museums) [**practitio
 
 Day 1 was dedicated to assessing the present state of collections as data work and community in an international context. In order to support that work, participants engaged in a phases of maturity exercise inspired by the [**People Capability Maturity Model (PCMM)**](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5329); assessed the transferability of [**collections as data models**](https://osf.io/r9n3s/wiki/home/) produced by Collections as Data: Part to Whole cohort teams; and documented challenges and opportunities to collections as data work specific to individual contexts (e.g., geographic, linguistic, cultural). 
 
-Day 2 was dedicated to charting the future of collections as data work and community in an international context. Participants engaged in a speculative futures exercise that partnered participants with each other in order to chart next steps to work described in [**participant position statements**](https://zenodo.org/record/7888576#.ZFGcFezMI-Q); an exercise designed to initiate a transformative update to the [**Santa Barbara Statement on Collections as Data**](https://collectionsasdata.github.io/statement/) - a values statement to ground responsible community work in the space; an exercise designed to support the creation of individual action plans participants could use post-event to advance collections as data work and community; a discussion to assess mechanisms for international collections as data community collaboration moving forward; and a closing individual reflection exercise. 
+Day 2 was dedicated to charting the future of collections as data work and community in an international context. Participants engaged in a speculative futures exercise that partnered participants with each other in order to chart next steps to work described in [**participant position statements**](https://zenodo.org/record/7888576#.ZFGcFezMI-Q); an exercise designed to initiate a transformative update to the [**Santa Barbara Statement on Collections as Data**](https://collectionsasdata.github.io/statement/); an exercise designed to support the creation of individual action plans; a discussion to assess mechanisms for international collections as data community collaboration moving forward; and a closing individual reflection exercise. 
 
-The project team is deeply thankful for critical contributions from event participants, and looks forward to sharing out public drafts of a Collections as Data: State of The Field and Future Directions white paper and a revised Santa Barbara Statement on Collections as Data (perhaps the Vancouver Statement on Collections as Data!) for broader community feedback.
+The project team is deeply thankful for critical contributions from summit participants, and looks forward to sharing out public drafts of a *Collections as Data: State of The Field and Future Directions* white paper and a revised *Santa Barbara Statement on Collections as Data* (perhaps the Vancouver Statement on Collections as Data!) for broader community feedback.
 
 ## A Resource
 
@@ -24,7 +24,7 @@ In preparation for the summit, participants submitted position statements to est
 
 *We ask that you write a brief position statement (1-2 pages) derived from direct or related experience salient to the scope of work described in Collections as Data: Part to Whole (see grant narrative and sub grantee final reports). Please send to us by April 7. We strongly welcome bridging, divergence, and provocation in your position statements. Is there something concrete or conceptual we are missing? Are there questions and communities we aren’t currently considering? This is an opportunity to highlight aspects of your experience that relate to collections as data and will help stage interaction at the face-to-face meeting as we collectively consider the state of the field and future directions together. As a whole, these position statements will form a collective resource to be shared publicly with any community interested in collections as data.*
 
-A sampling of position statement titles included below:
+A sampling of position statement titles is included below:
 
 *Against Archival Collections as Data*
 
@@ -60,7 +60,7 @@ Kayla Lar-Son, Xwi7xwa Library, University of British Columbia
 
 ## Next Steps
 
-Over the next 4 months the project team will work to synthesize feedback from event participants in order to draft a Collections as Data: State of The Field and Future Directions white paper and a revised Santa Barbara Statement on Collections as Data. We plan to work with participants to share out drafts to a broad range of communities to elicit further feedback.  This is essential as the resulting work should be as representative as possible of collective work in the space. We look forward very much to engaging with you. After the community feedback cycle is complete, final deliverables will be translated into multiple languages and published openly in the Fall of 2023. 
+Over the next 4 months the project team will work to synthesize feedback from event participants in order to draft a *Collections as Data: State of The Field and Future Directions* white paper and a revised *Santa Barbara Statement on Collections as Data*. We plan to work with participants to share out drafts to a broad range of communities to elicit further feedback.  This is essential as the resulting work should be as representative as possible of collective work in the space. We look forward very much to engaging with you. After the community feedback cycle is complete, final deliverables will be translated into multiple languages and published openly in the Fall of 2023. 
 
 May - June 2023
 * Project team drafts Collections as Data: State of the Field and Future Directions white paper + Santa Barbara Statement on Collections as Data 
