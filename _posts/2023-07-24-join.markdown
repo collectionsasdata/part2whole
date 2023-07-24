@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "✋ Join Us! Crafting the Vancouver Statement on Collection as Data
+title:  "✋ Join Us! Crafting the Vancouver Statement on Collections as Data
  ✋"
 date:   2023-07-24 
 teaser: "Join us!"
