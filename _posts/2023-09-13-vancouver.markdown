@@ -12,7 +12,9 @@ teaser: "Vancouver Statement on Collections as Data"
 ---
 
 Vancouver Statement on Collections-as-Data
+
  La Déclaration de Vancouver relative aux collections-en-tant-que-données 
+ 
 بيان فانكوفر بشأن التجميعات كبيانات
 
 
