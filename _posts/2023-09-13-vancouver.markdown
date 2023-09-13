@@ -5,7 +5,7 @@ title:  "🌎 Vancouver Statement on Collections-as-Data;
 بيان فانكوفر بشأن التجميعات كبيانات
 
 
- 🌎"
+ 🌍"
 date:   2023-09-13 
 teaser: "Vancouver Statement on Collections as Data"
 ---
