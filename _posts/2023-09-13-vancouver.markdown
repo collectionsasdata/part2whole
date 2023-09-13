@@ -11,11 +11,11 @@ teaser: "Vancouver Statement on Collections as Data"
 ---
 ---
 
-Vancouver Statement on Collections-as-Data
+## Vancouver Statement on Collections-as-Data
 
- La Déclaration de Vancouver relative aux collections-en-tant-que-données 
+ ## La Déclaration de Vancouver relative aux collections-en-tant-que-données 
  
-بيان فانكوفر بشأن التجميعات كبيانات
+بيان فانكوفر بشأن التجميعات كبيانات ##
 
 
 We are excited to announce the release of the Vancouver Statement on Collections-as-Data ([**in English**](https://zenodo.org/record/8341520), [**in Spanish**](https://zenodo.org/record/8341571), [**in French**](https://zenodo.org/record/8341864), [**in Arabic**](https://zenodo.org/record/8341885). This statement is an update to the [Santa Barbara Statement on Collections as Data](https://zenodo.org/record/3066209) and is a direct product of the international working event [Collections as Data: State of the Field and Future Directions](https://collectionsasdata.github.io/part2whole/iac/), as well as a period of asynchronous community feedback. Many factors motivated an update to the Santa Barbara Statement including, but not limited to, heightened concerns about data sovereignty and the increasingly pervasive use of artificial intelligence. The statement we release today benefited from robust community contributions and we are grateful for the community engagement. 
