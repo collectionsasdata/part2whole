@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "✍️ Collections as Data: Part to Whole Final Report ✍️"
+title:  "🤖 ✍️ Collections as Data: Part to Whole Final Report ✍️ 🤖"
 date:   2023-11-28 
 teaser: "Collections as Data: Part to Whole Final Report"
 ---
