@@ -6,7 +6,7 @@ title:  "Resources"
 
 #### Collections as Data: Part to Whole
 
-Final Report [english](https://zenodo.org/records/10161976),[spanish](https://zenodo.org/records/10211449), [french](https://zenodo.org/records/10211287), [arabic](https://zenodo.org/records/10211463) 
+Final Report [english](https://zenodo.org/records/10161976), [spanish](https://zenodo.org/records/10211449), [french](https://zenodo.org/records/10211287), [arabic](https://zenodo.org/records/10211463) 
 
 Vancouver Statement on Collections-as-Data [english](https://zenodo.org/records/8342171), [spanish](https://zenodo.org/records/8342197), [french](https://zenodo.org/records/8342190), [arabic](https://zenodo.org/records/8342187)
 
