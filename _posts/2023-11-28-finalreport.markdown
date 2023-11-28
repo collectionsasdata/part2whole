@@ -18,5 +18,3 @@ Thomas Padilla
 Hannah Scates Kettler
 
 Yasmeen Shorish
-
-Stewart Varner 
