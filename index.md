@@ -11,6 +11,7 @@ title:  "Part to Whole"
 
 Collections as Data: Part to Whole was preceded by [**Always Already Computational: Collections as Data**](https://collectionsasdata.github.io/). This effort was made possible by the Institute of Museum and Library Services. 
 
+Thomas, Hannah, and Yasmeen are actively exploring international partnerships to advance collections-as-data community development on a global level moving forward. If interested in partnering please reach out! 
 
 # Contact  
 
