@@ -7,10 +7,6 @@ title:  "Part to Whole"
 ![network](images/network.png) ![network](images/network.png) ![network](images/network.png) ![network](images/network.png)
 
 
-The project team is actively looking for partners to advance collections-as-data community development on a global level. If you are interested in collaborating please reach out. 
-
----
-
 **Collections as Data: Part to Whole** aimed to foster responsible implementation *and* use of [**collections as data**](https://zenodo.org/records/8342171). This effort was made possible by The Andrew W. Mellon Foundation ([**see grant narrative**](https://github.com/collectionsasdata/part2whole/raw/master/cad_part2whole_narrative.pdf)). 
 
 Collections as Data: Part to Whole was preceded by [**Always Already Computational: Collections as Data**](https://collectionsasdata.github.io/). This effort was made possible by the Institute of Museum and Library Services. 
