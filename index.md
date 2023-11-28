@@ -6,6 +6,7 @@ title:  "Part to Whole"
 
 ![network](images/network.png) ![network](images/network.png) ![network](images/network.png) ![network](images/network.png)
 
+
 The project team is actively looking for partners to advance collections-as-data community development on a global level. If you are interested in collaborating please reach out. 
 
 ---
