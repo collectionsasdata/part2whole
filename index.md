@@ -25,4 +25,4 @@ All project activity, both in person and online, aims to foster a welcoming and 
 
 ---
 
-This effort is made possible by The Andrew W. Mellon Foundation. 
+This effort was made possible by The Andrew W. Mellon Foundation. 
